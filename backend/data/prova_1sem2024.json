@@ -1,0 +1,890 @@
+{
+  "id": "prova_1sem2024",
+  "nome": "Simulado Fatec - Vestibular 1º SEM/2024",
+  "dataExame": "07/01/2024",
+  "instrucoes": [
+    "Este caderno contém 54 (cinquenta e quatro) questões em forma de teste e uma redação.",
+    "A prova terá duração de 5 (cinco) horas.",
+    "Após o início da prova, você deverá permanecer no mínimo até às 15h30min dentro da sala do Exame, podendo levar o caderno de questões.",
+    "Você receberá do Fiscal a Folha de Respostas Definitiva e a de Redação. Verifique se estão em ordem e com todos os dados impressos corretamente. Caso contrário, notifique o Fiscal, imediatamente.",
+    "Após certificar-se de que a Folha de Respostas Definitiva é sua, assine-a com caneta esferográfica de tinta preta ou azul no local em que há a indicação: “ASSINATURA DO(A) CANDIDATO(A)”.",
+    "A Folha de Redação já está personalizada com os seus dados, portanto não a assine.",
+    "Após o recebimento das Folhas de Respostas Definitiva e de Redação, não as dobre e nem as amasse, manipulando-as o mínimo possível.",
+    "Cada questão contém 5 (cinco) alternativas (A, B, C, D, E), das quais somente uma atende às condições do enunciado.",
+    "Responda a todas as questões. Para o cômputo da nota, serão considerados apenas os acertos.",
+    "Os espaços em branco contidos neste caderno de questões poderão ser utilizados para rascunho.",
+    "Assinale as alternativas escolhidas na Folha de Respostas Definitiva utilizando caneta esferográfica de tinta preta ou azul.",
+    "Questões com mais de uma alternativa assinalada, rasurada ou em branco serão anuladas. Portanto, ao preencher a Folha de Respostas Definitiva, faça-o cuidadosamente. Evite erros, pois a Folha de Respostas não será substituída.",
+    "Preencha as quadrículas da Folha de Respostas Definitiva, com caneta esferográfica de tinta preta ou azul e com traço forte e cheio.",
+    "É recomendável que você elabore a redação, primeiramente, no espaço reservado no final deste caderno de questões, onde há a indicação: “RASCUNHO DA REDAÇÃO”, e, após, transcrevê-la para a Folha de Redação, utilizando caneta esferográfica de tinta preta ou azul.",
+    "Quando você terminar a prova, avise o Fiscal, pois ele recolherá as Folhas de Respostas Definitiva e de Redação, na sua carteira. Ao término da prova, você somente poderá retirar-se da sala do Exame após entregar a sua Folha de Respostas Definitiva, devidamente assinada, e a Folha de Redação ao Fiscal.",
+    "Enquanto o candidato estiver realizando o Exame, SERÁ TERMINANTEMENTE PROIBIDO utilizar régua, esquadro, transferidor, compasso ou similares, calculadora, computador, notebook, tablets e similares, telefone celular (manter totalmente desligado, inclusive sem a possibilidade de emissão de alarme sonoro ou ruído de vibração, nas dependências do prédio onde o Exame será realizado), radiocomunicador ou aparelho eletrônico similar, smartwatch, chapéu, boné, lenço, gorro, óculos escuros, corretivo ou quaisquer outros materiais (papéis) estranhos ao exame. O candidato deverá manter seus equipamentos eletrônicos desligados até a saída do prédio onde estiver realizando as provas, evitando, portanto, o risco de sua eliminação do Vestibular.",
+    "Será desclassificado do presente Processo Seletivo Vestibular o candidato que: a Fizer declaração falsa ou não comprovar qualquer informação do formulário de inscrição; a não comparecer no dia do Exame; a chegar após o horário de fechamento dos portões, às 13h; a não apresentar um dos documentos de identidade originais exigidos; a realizar a prova sem apresentar um dos documentos de identidade originais exigidos; a sair da sala sem autorização ou desacompanhado do Fiscal, com ou sem o caderno de questões e/ou as Folhas de Respostas Definitiva e de Redação. a retirar-se da sala de provas com a Folha de Respostas e/ou Caderno de Questões e/ou a Folha de Redação; a retirar-se do prédio em definitivo antes de decorrido duas horas e trinta minutos do início do Exame, independente do motivo exposto; a perturbar, de qualquer modo, a ordem no local de aplicação das provas, incorrendo em comportamento indevido durante a realização do Exame; a utilizar ou tentar utilizar-se de qualquer tipo de equipamento eletrônico, de comunicação e/ou de livros, notas, impressos e apontamentos durante a realização do Exame. a for surpreendido se comunicando ou tentando se comunicar com outro candidato durante o Exame e/ou realizar ou tentar realizar qualquer espécie de consulta durante o período das provas; a retirar-se do prédio durante a realização do Exame, independente do motivo exposto; a realizar o Exame fora do local determinado; a utilizar ou tentar utilizar meio fraudulento em benefício próprio ou de terceiros, em qualquer etapa do Exame; a não atender as orientações da equipe de aplicação durante a realização do Exame; a deixar de assinar a lista de presença e a sua Folha de Respostas Definitiva. a assinar e/ou se identificar na Folha de Redação; a obtiver zero (0) na nota de qualquer uma das duas partes que compõem o Exame (prova objetiva e/ou Redação)."
+  ],
+  "questoes": [
+    {
+      "numero": "01",
+      "textoBase": "Se a realidade virtual é entendida como a capacidade de criar ambientes que não existem na natureza, **então** ela foi uma criação do paleolítico, um exemplo são as pinturas rupestres.",
+      "enunciado": "Ao considerar a frase destacada em negrito no texto, é correto afirmar que o conectivo lógico utilizado",
+      "alternativas": [
+        { "letra": "A", "texto": "apresenta uma oposição de ideias entre duas proposições, e representa a operação de negação." },
+        { "letra": "B", "texto": "“soma” as ideias apresentadas por duas proposições, e representa a operação de conjunção." },
+        { "letra": "C", "texto": "une proposições cujas ideias nunca poderiam ocorrer simultaneamente, e representa a operação de disjunção." },
+        { "letra": "D", "texto": "subordina a ocorrência da segunda proposição à concretização da primeira proposição, e representa a operação condicional." },
+        { "letra": "E", "texto": "estabelece a equivalência entre as ideias presentes em ambas as proposições, e representa a operação bicondicional." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Raciocínio Lógico",
+      "explicacao": "A frase em negrito \"então\" faz parte de uma estrutura condicional \"Se... então\". Esse conectivo lógico subordina a ocorrência da segunda proposição à concretização da primeira, caracterizando uma operação condicional.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "02",
+      "textoBase": "A diversidade do registro gráfico rupestre no território nacional é impressionante devido à multiplicidade de suas temáticas, ao grau de abstração intelectual das representações e às diversas técnicas de confecção dos registros rupestres realizados pelos grupos humanos do passado. O que torna evidente, de algum modo, que os inscritos nas rochas foram realizados por uma multiplicidade de grupos, em tempos imemoriais, com seus inúmeros interesses e com suas complexidades artísticas, políticas e socioculturais.",
+      "enunciado": "De acordo com o texto, é correto afirmar que",
+      "alternativas": [
+        { "letra": "A", "texto": "o número reduzido de registros gráficos em território nacional impede a realização de estudos sobre a diversidade dos grupos humanos do passado." },
+        { "letra": "B", "texto": "o estudo sistemático dos registros rupestres revelou a existência de um padrão de temática repetitivo, que se estendeu por todo o território nacional." },
+        { "letra": "C", "texto": "o significado dos registros rupestres em território nacional varia de acordo com o contexto, a tecnologia e a organização de cada um dos diferentes povos do passado." },
+        { "letra": "D", "texto": "os inscritos nas rochas foram realizados por povos que, pela ausência de abstração intelectual, desenvolveram técnicas rudimentares para a confecção de registros." },
+        { "letra": "E", "texto": "os grupos humanos do passado deixaram registros que, pela multiplicidade de interesses, revelam ter sido produzidos por um único povo." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "História",
+      "explicacao": "O texto afirma que a \"diversidade do registro gráfico rupestre no território nacional é impressionante devido à multiplicidade de suas temáticas, ao grau de abstração intelectual das representações e às diversas técnicas de confecção dos registros rupestres\". Ele também menciona que isso é evidência de \"uma multiplicidade de grupos, em tempos imemoriais, com seus inúmeros interesses e com suas complexidades artísticas, políticas e socioculturais\". A alternativa C está correta ao inferir que o significado dos registros varia \"de acordo com o contexto, a tecnologia e a organização de cada um dos diferentes povos do passado\", o que é uma síntese direta das informações sobre a \"multiplicidade\" e \"complexidades\" dos grupos e suas representações.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "03",
+      "textoBase": "No Brasil, o Parque Nacional da Serra da Capivara, no Piauí, abriga o maior e mais antigo acervo rupestre da América do Sul. Essa arte se caracteriza por pinturas e gravuras encontradas nos sítios arqueológicos, feitas pelos grupos pré-históricos que habitavam a região. Esses grupos utilizavam, em suas pinturas, carvão, argila de várias cores e minerais triturados. Acredita-se ainda que usassem substâncias como sangue, clara de ovo, resinas vegetais, excrementos e saliva humana para ajudar na fixação dos pigmentos. Essas pinturas retratavam o cotidiano da época, os rituais religiosos, as práticas humanas em adoração ao redor de árvores e em representações de danças coletivas, de caças ou de lutas. Além disso, representavam também figuras de animais, como capivaras, tatus, onças, cervos, entre outros.",
+      "enunciado": "De acordo com o texto, esse importante patrimônio cultural brasileiro auxilia os pesquisadores nos estudos sobre",
+      "alternativas": [
+        { "letra": "A", "texto": "os vários tipos de ferramentas, de resinas, de óleos e de tintas, fabricados e comercializados pelos povos pré-cambrianos, para realizar pinturas e gravuras encontradas nos sítios arqueológicos." },
+        { "letra": "B", "texto": "as etapas detalhadas dos processos de criação e de domesticação dos animais selvagens, como capivaras e onças, os quais eram utilizados nos serviços de tração animal nas plantações." },
+        { "letra": "C", "texto": "o desenvolvimento das atuações sociais e culturais do homem pré-histórico, e sobre suas práticas e costumes representados na caça, na dança e na luta." },
+        { "letra": "D", "texto": "os conflitos entre os povos indígenas e os europeus, durante as etapas da colonização no Brasil, que tinham por objetivo a exploração dos recursos naturais do país." },
+        { "letra": "E", "texto": "os rituais religiosos envolvendo sacrifícios dos grandes animais, como os dinossauros, que eram oferecidos aos deuses junto aos pedidos de chuvas e de boas colheitas." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "Biologia",
+      "explicacao": "O texto descreve que as pinturas rupestres no Parque Nacional da Serra da Capivara \"retratavam o cotidiano da época, os rituais religiosos, as práticas humanas em adoração ao redor de árvores e em representações de danças coletivas, de caças ou de lutas\". A alternativa C, ao afirmar que o patrimônio auxilia os pesquisadores nos estudos \"sobre o desenvolvimento das atuações sociais e culturais do homem pré-histórico, e sobre suas práticas e costumes representados na caça, na dança e na luta\", está diretamente alinhada com as informações fornecidas.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "04",
+      "textoBase": "O atlatl é um artefato manual asteca que encaixa na parte traseira de uma lança e pode impulsioná-la a uma velocidade de 150 km/h, além de fazê-la gerar uma pressão que chega a 75 kgf/cm2 em seu alvo. Trata-se de uma estrutura capaz de intensificar o arremesso da lança por seu usuário, tornando-a mais letal que um leão e mais veloz que um guepardo, uma vez que a pressão da mordida de um leão gera 50 kgf/cm2 e que um guepardo, perseguindo uma presa, chega a 130 km/h.",
+      "enunciado": "Ao ler o texto, é correto afirmar que o atlatl provavelmente poderia ser encontrado em sítios arqueológicos localizados na região do atual __________, que se situa no hemisfério __________, dado ser esta a região habitada pela civilização referida no texto, antes da chegada de Cristóvão Colombo ao continente americano em 1492. Além disso, esse artefato intensifica o arremesso da lança por seu usuário em cerca de __________ % no que se refere à __________ do felino. Assinale a alternativa que completa corretamente os espaços numerados.",
+      "alternativas": [
+        { "letra": "A", "texto": "México | Norte | 15 | velocidade." },
+        { "letra": "B", "texto": "Peru | Norte | 15 | velocidade." },
+        { "letra": "C", "texto": "México | Sul | 25 | velocidade." },
+        { "letra": "D", "texto": "Peru | Sul | 25 | pressão." },
+        { "letra": "E", "texto": "México | Norte | 15 | pressão." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "O texto descreve o atlatl como um artefato \"asteca\". A civilização asteca habitava a região que hoje corresponde ao México, situado no hemisfério Norte. A velocidade da lança é 150 km/h e a do guepardo é 130 km/h. O aumento percentual da velocidade é ((150 - 130) / 130) * 100% = (20 / 130) * 100% ≈ 15,38%, que arredonda para 15%. A alternativa A sugere \"México, Norte, 15, velocidade\".",
+      "notaInconsistencia": "A questão original é um pouco ambígua sobre a qual característica do felino a porcentagem se refere (velocidade do guepardo ou pressão da mordida do leão). A explicação original fornecida pelo usuário tentava justificar os 15% para velocidade."
+    },
+    {
+      "numero": "05",
+      "textoBase": "A prática de traçar mapas é antiga. O mais antigo mapa que representa um Estado, foi produzido na Suméria, em uma pequena tábua de argila. Já os gregos, por volta do século VI a.C. elaboraram mapas decorrentes de navegações e de expedições militares. Com o início das Grandes Navegações, a Cartografia ressurge como meio de representação das novas descobertas. O processo de representação de uma superfície esférica em uma superfície plana recebe a denominação de projeção cartográfica. Cartografia, portanto, é a arte e a ciência de, graficamente, representar uma área geográfica em uma superfície plana.",
+      "enunciado": "Com base no texto, é correto afirmar que",
+      "alternativas": [
+        { "letra": "A", "texto": "a Cartografia nasceu como ciência, mas, com o decorrer dos séculos, transformou-se em arte." },
+        { "letra": "B", "texto": "os mapas da Antiguidade já eram elaborados com a utilização de técnicas de sensoriamento remoto." },
+        { "letra": "C", "texto": "o mapa mais antigo encontrado representava um Estado, data do século IV a.C. e foi produzido na Grécia." },
+        { "letra": "D", "texto": "a projeção cartográfica foi desenvolvida para permitir a representação da esfericidade terrestre em um plano." },
+        { "letra": "E", "texto": "a arte de traçar mapas começa com os gregos, no século V a.C., e se expande com os sumérios, que descobriram a argila." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Geografia",
+      "explicacao": "O texto define projeção cartográfica como \"o processo de representação de uma superfície esférica em uma superfície plana\". A alternativa D afirma que \"a projeção cartográfica foi desenvolvida para permitir a representação da esfericidade terrestre em um plano\", o que está em total conformidade com a definição dada.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "06",
+      "textoBase": "O Museu do Louvre em Paris, na França, é atualmente o museu mais visitado do mundo. A análise do gráfico permite notar variações quanto ao número de visitantes ano a ano. Em relação ao ano anterior, é correto afirmar que, no ano de\n*[Descrição da imagem: Gráfico \"Número de visitantes ao Museu do Louvre de 2007 a 2022 (em milhões)\".\n2007: 8.3 | 2008: 8.5 | 2009: 8.5 | 2010: 8.5 | 2011: 8.9 | 2012: 9.7 | 2013: 9.3 | 2014: 9.3 | 2015: 8.6 | 2016: 7.3 | 2017: 8.1 | 2018: 10.2 | 2019: 9.6 | 2020: 2.7 | 2021: 2.8 | 2022: 7.7.\nFonte: https://tinyurl.com/8973c75k Acesso em: 20.09.2023. Adaptado.]*",
+      "enunciado": "",
+      "alternativas": [
+        { "letra": "A", "texto": "2009, devido à pandemia provocada pelo vírus H1N1, que ficou conhecida como gripe suína, registrou-se uma redução no número de visitantes." },
+        { "letra": "B", "texto": "2015, em razão do roubo da Monalisa, famosa obra de Leonardo da Vinci e principal atração de turistas ao museu, houve um aumento no número de visitantes." },
+        { "letra": "C", "texto": "2019, em decorrência de um incêndio que manteve o museu fechado por mais de um ano para obras de reparo, ocorreu uma redução no número de visitantes." },
+        { "letra": "D", "texto": "2020, por causa da pandemia de covid-19, doença causada pelo coronavírus SARS-CoV-2, verificou-se uma redução no número de visitantes." },
+        { "letra": "E", "texto": "2022, em virtude do fechamento das fronteiras da França por conta de sua saída da União Europeia, aconteceu um aumento no número de visitantes." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "Matemática",
+      "explicacao": "Observando o gráfico, de 2018 (10.2M) para 2019 (9.6M), houve uma redução no número de visitantes. A alternativa C afirma: \"2019, em decorrência de um incêndio que manteve o museu fechado por mais de um ano para obras de reparo, ocorreu uma redução no número de visitantes.\"",
+      "notaInconsistencia": "O gabarito oficial é C. A redução de 2018 para 2019 é visível no gráfico. No entanto, a causa (incêndio) é uma informação externa. A queda mais acentuada no gráfico ocorre de 2019 para 2020, que poderia ser associada à pandemia (alternativa D), mas D não é o gabarito. A questão, como formulada, pode exigir conhecimento externo para justificar a causa da queda em 2019."
+    },
+    {
+      "numero": "07",
+      "textoBase": "O Museu do Louvre em Paris, na França, é atualmente o museu mais visitado do mundo. A análise do gráfico permite notar variações quanto ao número de visitantes ano a ano. Em relação ao ano anterior, é correto afirmar que, no ano de\n*[Descrição da imagem: Gráfico \"Número de visitantes ao Museu do Louvre de 2007 a 2022 (em milhões)\".\n2007: 8.3 | 2008: 8.5 | 2009: 8.5 | 2010: 8.5 | 2011: 8.9 | 2012: 9.7 | 2013: 9.3 | 2014: 9.3 | 2015: 8.6 | 2016: 7.3 | 2017: 8.1 | 2018: 10.2 | 2019: 9.6 | 2020: 2.7 | 2021: 2.8 | 2022: 7.7.\nFonte: https://tinyurl.com/8973c75k Acesso em: 20.09.2023. Adaptado.]*",
+      "enunciado": "Analisando os dados do número de visitantes ao Museu do Louvre, em milhões, assinale a alternativa que apresenta, correta e respectivamente, a moda e a mediana desse conjunto.",
+      "alternativas": [
+        { "letra": "A", "texto": "8,5 e 9,3." },
+        { "letra": "B", "texto": "8,5 e 8,6." },
+        { "letra": "C", "texto": "8,5 e 8,5." },
+        { "letra": "D", "texto": "10,2 e 8,6." },
+        { "letra": "E", "texto": "10,2 e 8,5." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "Moda: O valor que mais se repete nos dados. Mediana: O valor central dos dados ordenados.\nDados: 8.3, 8.5, 8.5, 8.5, 8.9, 9.7, 9.3, 9.3, 8.6, 7.3, 8.1, 10.2, 9.6, 2.7, 2.8, 7.7.\nOrdenados: 2.7, 2.8, 7.3, 7.7, 8.1, 8.3, 8.5, 8.5, 8.5, 8.6, 8.9, 9.3, 9.3, 9.6, 9.7, 10.2.\nModa calculada: 8.5 (aparece 3 vezes).\nMediana calculada (média do 8º e 9º valor): (8.5 + 8.5) / 2 = 8.5.",
+      "notaInconsistencia": "O gabarito oficial é D (Moda 10.2, Mediana 8.6). Os cálculos diretos dos dados fornecidos resultam em Moda = 8.5 e Mediana = 8.5. Há uma clara discrepância com o gabarito oficial."
+    },
+    {
+      "numero": "08",
+      "textoBase": "The **longstanding** mystery surrounding Antarctica’s Blood Falls has **finally** been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was **due to** algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier. The deep red coloring is **due to** oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color. The research team calculates that the brine water takes approximately 1.5 million years to finally reach the Blood Falls as it makes its way through fissures and channels in the glacier.\n*(Fonte: https://tinyurl.com/329nvk5k Acesso em: 21.09.2023. Adaptado.)*",
+      "enunciado": "As palavras longstanding e finally, sublinhadas no primeiro período do texto, evidenciam a",
+      "alternativas": [
+        { "letra": "A", "texto": "incompetência dos pesquisadores na solução de um caso corriqueiro." },
+        { "letra": "B", "texto": "contínua influência do aquecimento global na desfiguração das geleiras do Polo Norte." },
+        { "letra": "C", "texto": "impaciência demonstrada pelo autor ao não conseguir respostas para suas perguntas." },
+        { "letra": "D", "texto": "longa busca por respostas para as manchas vermelhas em encostas geladas do Polo Sul." },
+        { "letra": "E", "texto": "prostração da comunidade científica diante de um mistério que já dura mais de um século." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Inglês",
+      "explicacao": "As palavras \"longstanding\" (de longa data) e \"finally\" (finalmente) no texto juntas indicam que o mistério sobre as Blood Falls existiu por um longo tempo e foi resolvido apenas agora. Isso se relaciona com a \"longa busca por respostas\". A referência a \"Polo Sul\" está correta, já que o texto fala sobre a Antártica.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "09",
+      "textoBase": "The **longstanding** mystery surrounding Antarctica’s Blood Falls has **finally** been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was **due to** algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier. The deep red coloring is **due to** oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color. The research team calculates that the brine water takes approximately 1.5 million years to finally reach the Blood Falls as it makes its way through fissures and channels in the glacier.\n*(Fonte: https://tinyurl.com/329nvk5k Acesso em: 21.09.2023. Adaptado.)*",
+      "enunciado": "A expressão due to, em negrito, introduz",
+      "alternativas": [
+        { "letra": "A", "texto": "causa." },
+        { "letra": "B", "texto": "obrigação." },
+        { "letra": "C", "texto": "contestação." },
+        { "letra": "D", "texto": "determinação." },
+        { "letra": "E", "texto": "finalidade." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Inglês",
+      "explicacao": "A expressão \"due to\" em inglês geralmente introduz a razão ou o motivo para algo, ou seja, a causa. No texto, ela é usada para explicar a coloração vermelha: \"The deep red coloring is due to oxidized iron...\". Portanto, ela introduz uma causa.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "10",
+      "textoBase": "The **longstanding** mystery surrounding Antarctica’s Blood Falls has **finally** been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was **due to** algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier. The deep red coloring is **due to** oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color. The research team calculates that the brine water takes approximately 1.5 million years to finally reach the Blood Falls as it makes its way through fissures and channels in the glacier.\n*(Fonte: https://tinyurl.com/329nvk5k Acesso em: 21.09.2023. Adaptado.)*",
+      "enunciado": "Segundo o texto, o que explica corretamente o aparecimento da coloração vermelho-escura na água é",
+      "alternativas": [
+        { "letra": "A", "texto": "o descoramento das algas vermelhas." },
+        { "letra": "B", "texto": "o congelamento das algas em contato com o sal." },
+        { "letra": "C", "texto": "a oxidação do ferro em contato com o oxigênio." },
+        { "letra": "D", "texto": "a baixa densidade da água salgada em relação à água pura." },
+        { "letra": "E", "texto": "o contato da água salgada com o sangue de animais mortos." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "O texto afirma claramente: \"The deep red coloring is due to oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color\". A alternativa C, \"a oxidação do ferro em contato com o oxigênio\", descreve precisamente o processo explicado.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "11",
+      "textoBase": "Em 2019, a Unesco definiu 15 de abril como o dia Mundial da Arte: uma data para difundir como a arte alimenta a criatividade, a inovação e a diversidade cultural, além de desempenhar um papel importante no compartilhamento de conhecimento e no incentivo à curiosidade, ao diálogo e à paz.",
+      "enunciado": "Se, em um determinado ano bissexto, o dia 3 de janeiro ocorre em uma quarta-feira, então o dia Mundial da Arte nesse ano será comemorado em uma",
+      "alternativas": [
+        { "letra": "A", "texto": "segunda-feira." },
+        { "letra": "B", "texto": "terça-feira." },
+        { "letra": "C", "texto": "quarta-feira." },
+        { "letra": "D", "texto": "quinta-feira." },
+        { "letra": "E", "texto": "sexta-feira." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Raciocínio Lógico",
+      "explicacao": "Um ano bissexto tem 366 dias. O dia Mundial da Arte é 15 de abril. De 3 de janeiro a 15 de abril: Janeiro: 31 - 3 = 28 dias restantes. Fevereiro (bissexto): 29 dias. Março: 31 dias. Abril: 15 dias. Total de dias = 28 + 29 + 31 + 15 = 103 dias. Para encontrar o dia da semana, dividimos o total de dias por 7: 103 / 7 = 14 com resto 5. Se 3 de janeiro é quarta-feira, então contamos 5 dias a partir de quarta-feira: Quarta-feira (0), Quinta-feira (1), Sexta-feira (2), Sábado (3), Domingo (4), Segunda-feira (5). Portanto, o dia Mundial da Arte será em uma segunda-feira.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "12",
+      "textoBase": "Ao longo da história da humanidade, a atividade artística recebeu, e continua recebendo, influências tecnológicas. Nas Ciências Biológicas, a relação entre botânica e arte tem sido fascinante, sendo as plantas retratadas em pinturas, em esculturas e em outras formas de manifestação artística. Na Grécia Antiga, a arte botânica era utilizada para representar a natureza divina das plantas. Na Idade Média, as ilustrações botânicas eram usadas para identificar plantas medicinais e venenosas. Já na Renascença, as flores eram frequentemente utilizadas para simbolizar a beleza e a fragilidade da vida humana. Na Idade Contemporânea, são conhecidas mais de 300 mil espécies de plantas que variam quanto ao tamanho, à forma e à organização corporal. Há desde espécies com organização pouco complexa, como os musgos, até organismos mais evoluídos, como as plantas frutíferas.",
+      "enunciado": "Assinale a alternativa que associa, corretamente, as informações contidas no texto aos avanços tecnológicos e aos conhecimentos científicos relativos a cada período histórico mencionado.",
+      "alternativas": [
+        { "letra": "A", "texto": "Na Grécia Antiga, o uso de microscópios primitivos permitiu que a arte botânica representasse as células vegetais com núcleos detalhados." },
+        { "letra": "B", "texto": "Na Idade Média, as ilustrações botânicas, usadas para identificar plantas medicinais e venenosas, baseavam-se nos conhecimentos existentes dos genes e dos ácidos nucleicos." },
+        { "letra": "C", "texto": "Durante a Renascença, as flores eram utilizadas para simbolizar a beleza e a fragilidade da vida humana, devido aos estudos dos ciclos de vida das plantas realizados com microscopia eletrônica." },
+        { "letra": "D", "texto": "Na Idade Contemporânea, apesar de existirem milhares de espécies conhecidas de plantas diferentes, com diversidade de características, pode-se afirmar que todas elas possuem flores e frutos." },
+        { "letra": "E", "texto": "Na Idade Contemporânea, os conhecimentos sobre a diversidade das plantas permitem agrupá-las considerando, por exemplo, as características morfológicas e as relações evolutivas de seus grupos." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "O texto descreve a Idade Contemporânea afirmando que \"são conhecidas mais de 300 mil espécies de plantas que variam quanto ao tamanho, à forma e à organização corporal. Há desde espécies com organização pouco complexa, como os musgos, até organismos mais evoluídos, como as plantas frutíferas\". A alternativa E está correta ao dizer que \"os conhecimentos sobre a diversidade das plantas permitem agrupá-las considerando, por exemplo, as características morfológicas e as relações evolutivas de seus grupos\", o que é consistente com a diversidade mencionada e a capacidade de organização dos conhecimentos científicos na Idade Contemporânea.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "13",
+      "textoBase": "Na ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de cerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela região aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas. Essas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo. No Pará, podemos visitar diversos museus que expõem a arte Marajoara.\nConsidere que, em uma dessas exposições, haja um vaso de cerâmica em formato de um cilindro circular reto, com 30 cm de altura e raio da base igual a 10 cm.",
+      "enunciado": "Um artista cria uma cópia exata do vaso de cerâmica mencionado no texto. Para começar, ele decide pintar toda a área lateral externa desse vaso com tinta de urucum. Para fazer essa tinta, ele usa uma receita própria que consiste em misturar, em um recipiente, 30 mL de azeite de oliva a 12 g de urucum em pó. A tintura obtida rende a pintura de uma área de 450 cm².\nConsidere que 1000 mL de azeite custe R$ 60,00 e que 100 g de urucum em pó custe R$ 2,00. Assinale a alternativa que apresenta, corretamente, o custo com matéria-prima para a elaboração da receita de tinta de urucum na quantidade necessária para que o artista realize a pintura proposta. (Utilize π = 3).",
+      "alternativas": [
+        { "letra": "A", "texto": "R$ 8,16." },
+        { "letra": "B", "texto": "R$ 7,20." },
+        { "letra": "C", "texto": "R$ 4,50." },
+        { "letra": "D", "texto": "R$ 1,68." },
+        { "letra": "E", "texto": "R$ 0,96." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Matemática",
+      "explicacao": "Primeiro, calcula-se a área lateral do vaso cilíndrico. O vaso tem 30 cm de altura e raio da base de 10 cm. A fórmula da área lateral de um cilindro é A_lateral = 2 * π * raio * altura. Usando π = 3, A_lateral = 2 * 3 * 10 cm * 30 cm = 1800 cm². A receita de tinta rende 450 cm² com 30 mL de azeite e 12 g de urucum em pó. Para pintar 1800 cm², a quantidade de tinta necessária é 1800 / 450 = 4 receitas. Custo do azeite: 1000 mL custam R$ 60,00. Para 30 mL, o custo é (30/1000) * R$ 60,00 = R$ 1,80. Custo do urucum: 100 g custam R$ 2,00. Para 12 g, o custo é (12/100) * R$ 2,00 = R$ 0,24. Custo de uma receita = R$ 1,80 + R$ 0,24 = R$ 2,04. Custo total para 4 receitas = 4 * R$ 2,04 = R$ 8,16.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "14",
+      "textoBase": "Na ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de cerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela região aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas. Essas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo. No Pará, podemos visitar diversos museus que expõem a arte Marajoara.\nConsidere que, em uma dessas exposições, haja um vaso de cerâmica em formato de um cilindro circular reto, com 30 cm de altura e raio da base igual a 10 cm.",
+      "enunciado": "Um artesão quer criar miniaturas proporcionais ao vaso de cerâmica mencionado no texto para vender aos turistas. Sabendo que o raio da base da miniatura é de 2 cm, o volume desta, em cm³, será de.",
+      "alternativas": [
+        { "letra": "A", "texto": "30 π." },
+        { "letra": "B", "texto": "24 π." },
+        { "letra": "C", "texto": "18 π." },
+        { "letra": "D", "texto": "12 π." },
+        { "letra": "E", "texto": "6 π." }
+      ],
+      "respostaCorreta": "B",
+      "disciplina": "Matemática",
+      "explicacao": "O vaso original é um cilindro circular reto com altura (h) = 30 cm e raio (R) = 10 cm. O volume do vaso original é V = π * R² * h = π * (10 cm)² * 30 cm = π * 100 * 30 = 3000π cm³. A miniatura é proporcional e tem raio da base (r) = 2 cm. A razão de semelhança linear é k = r/R = 2/10 = 1/5. Em figuras semelhantes, a razão entre os volumes é o cubo da razão de semelhança linear. V_miniatura / V_original = k³. V_miniatura = V_original * (1/5)³ = 3000π * (1/125) = 3000π / 125 = 24π cm³.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "15",
+      "textoBase": "Cândido Portinari, um dos principais pintores brasileiros do século 20, residiu em uma casa que hoje é o Museu Casa de Portinari, localizado no interior do estado de São Paulo. Há alguns anos, em um dos cômodos da casa, um pesquisador encontrou um pontinho azul em um reboco e foi descascando a parede até chegar a uma pintura oculta. Seria Portinari o autor da misteriosa obra? A análise química pode ajudar a responder a esse mistério. Uma das técnicas utilizadas para análise é a de fluorescência em raios X, em que os pesquisadores emitem quantidades moderadas de raios X sobre a pintura, excitando os elétrons dos elementos constituintes das tintas. Quando o elétron retorna para o estado fundamental, ocorre emissão de luz cuja cor e intensidade variam de um elemento químico para outro, o que permite identificar o composto presente na tinta. Segundo os pesquisadores, o verde de Portinari era obtido com sais de cromo ou uma mistura de sais de cobalto e cádmio. No branco, há a presença do óxido de zinco; no vermelho, há, em geral, sais e óxidos de ferro, manganês, cádmio e selênio.",
+      "enunciado": "Assinale a alternativa que contém a fórmula química correta do composto que confere cor branca à tinta utilizada por Portinari.",
+      "alternativas": [
+        { "letra": "A", "texto": "ZnO." },
+        { "letra": "B", "texto": "OZn." },
+        { "letra": "C", "texto": "MnO2." },
+        { "letra": "D", "texto": "OFe." },
+        { "letra": "E", "texto": "ZrO." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Química",
+      "explicacao": "O texto afirma que, \"No branco, há a presença do óxido de zinco\". A fórmula química do óxido de zinco é ZnO.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "16",
+      "textoBase": "Cândido Portinari, um dos principais pintores brasileiros do século 20, residiu em uma casa que hoje é o Museu Casa de Portinari, localizado no interior do estado de São Paulo. Há alguns anos, em um dos cômodos da casa, um pesquisador encontrou um pontinho azul em um reboco e foi descascando a parede até chegar a uma pintura oculta. Seria Portinari o autor da misteriosa obra? A análise química pode ajudar a responder a esse mistério. Uma das técnicas utilizadas para análise é a de fluorescência em raios X, em que os pesquisadores emitem quantidades moderadas de raios X sobre a pintura, excitando os elétrons dos elementos constituintes das tintas. Quando o elétron retorna para o estado fundamental, ocorre emissão de luz cuja cor e intensidade variam de um elemento químico para outro, o que permite identificar o composto presente na tinta. Segundo os pesquisadores, o verde de Portinari era obtido com sais de cromo ou uma mistura de sais de cobalto e cádmio. No branco, há a presença do óxido de zinco; no vermelho, há, em geral, sais e óxidos de ferro, manganês, cádmio e selênio.",
+      "enunciado": "A emissão de luz, que ocorre na técnica de análise mencionada no texto, é explicada corretamente pelo modelo atômico de.",
+      "alternativas": [
+        { "letra": "A", "texto": "Demócrito." },
+        { "letra": "B", "texto": "Leucipo." },
+        { "letra": "C", "texto": "Dalton." },
+        { "letra": "D", "texto": "Thomson." },
+        { "letra": "E", "texto": "Bohr." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Química",
+      "explicacao": "O texto descreve a técnica de fluorescência em raios X: \"excitando os elétrons dos elementos constituintes das tintas. Quando o elétron retorna para o estado fundamental, ocorre emissão de luz...\". O modelo atômico de Bohr explica que a emissão de luz ocorre quando elétrons em estados excitados (níveis de energia mais altos) retornam a estados de menor energia (estado fundamental), liberando energia na forma de fótons (luz).",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "17",
+      "textoBase": "As teias de seda das aranhas são obras de arte da natureza. Por sua arquitetura, por sua composição química e por sua característica elástica, pegajosa e resistente, as teias serviram de inspiração para a produção de tipos diferentes de materiais, como, por exemplo, curativos cirúrgicos e próteses. A seda dessas teias é composta por proteínas produzidas nas fiandeiras, estruturas localizadas na parte posterior do corpo das aranhas. No entanto, apesar de todas as espécies de aranhas produzirem seda, apenas a minoria tece teias. Além disso, as aranhas são muito importantes para o equilíbrio dos ecossistemas, pois se alimentam de insetos e de outros pequenos animais, ajudando a controlar a população desses seres. Outra característica das aranhas é sua carapaça externa, leve e resistente, denominada de exoesqueleto, que dá forma e suporte estrutural ao corpo dos animais.",
+      "enunciado": "De acordo com o texto, é correto afirmar que as aranhas",
+      "alternativas": [
+        { "letra": "A", "texto": "apresentam um esqueleto interno flexível, responsável pela sustentação do corpo." },
+        { "letra": "B", "texto": "inoculam veneno, por meio das fiandeiras abdominais, nas presas capturadas nas teias." },
+        { "letra": "C", "texto": "fabricam teias de seda com carboidratos e lipídios, a partir de folhas e frutas que consomem na natureza." },
+        { "letra": "D", "texto": "exercem importante função ecológica ao manter o controle natural da densidade populacional de insetos." },
+        { "letra": "E", "texto": "produzem, na maioria das vezes, teias cujos fios de seda são muito frágeis, pouco elásticos e arrebentam facilmente na captura das presas." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Biologia",
+      "explicacao": "O texto afirma que \"as aranhas são muito importantes para o equilíbrio dos ecossistemas, pois se alimentam de insetos e de outros pequenos animais, ajudando a controlar a população desses seres\". A alternativa D, \"exercem importante função ecológica ao manter o controle natural da densidade populacional de insetos\", está diretamente de acordo com essa informação.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "18",
+      "textoBase": "*[Descrição da imagem: Imagem de tirinha do Calvin e Haroldo, com Calvin e Haroldo discutindo sobre \"light-years\" (anos-luz) em um contexto de \"estou anos-luz à frente de você\". O texto completo da tirinha não foi fornecido, apenas a descrição do tema.]*",
+      "enunciado": "Analisando a linguagem verbal e não verbal da tirinha, é correto afirmar que a frustração da personagem",
+      "alternativas": [
+        { "letra": "A", "texto": "no segundo quadrinho, é gerada pela referência a um conceito geográfico incorreto, pois dinossauros e homens ocuparam regiões diferentes no período Cambriano." },
+        { "letra": "B", "texto": "no segundo quadrinho, é resultado de uma análise incorreta da História, pois os humanos domesticaram pequenas espécies de dinossauros durante o período Cretáceo." },
+        { "letra": "C", "texto": "no terceiro quadrinho, resulta de um erro gramatical, já que a expressão “light-years”, como metáfora, deveria apresentar-se grafada entre aspas." },
+        { "letra": "D", "texto": "no terceiro quadrinho, refere-se ao uso da unidade de medida “ano-luz”, que designa distância e não tempo, como no contexto apresentado." },
+        { "letra": "E", "texto": "no quarto quadrinho, procede do equívoco presente na letra da canção a qual ignora ser a velocidade da luz menor que a do som." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "Na tirinha (descrita), Calvin usa \"anos-luz\" para indicar uma vantagem temporal. Ano-luz é uma unidade de medida de distância, não de tempo. Portanto, a frustração da personagem (ou o erro conceitual) refere-se ao uso incorreto da unidade de medida “ano-luz”, que designa distância e não tempo.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "19",
+      "textoBase": "A expressão “anos-luz” é utilizada em muitas representações artísticas, de tirinhas a quadros, de músicas a poemas entre outras.",
+      "enunciado": "Entretanto, qual é, realmente, o valor aproximado de 1 ano-luz? Adote: velocidade da luz c = 3,0x10⁸ m/s e 1 ano = 3,2 x 10⁷ s. Podemos afirmar que a resposta correta a essa pergunta é, aproximadamente.",
+      "alternativas": [
+        { "letra": "A", "texto": "1,0 × 10⁹ m/s." },
+        { "letra": "B", "texto": "1,1×10¹¹ s." },
+        { "letra": "C", "texto": "2,6×10¹² s." },
+        { "letra": "D", "texto": "6,1×10¹³ m." },
+        { "letra": "E", "texto": "9,6×10¹⁵ m." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Física",
+      "explicacao": "A distância percorrida pela luz (1 ano-luz) é calculada pela fórmula distância = velocidade × tempo. Velocidade da luz (c) = 3,0 × 10⁸ m/s. Tempo (1 ano) = 3,2 × 10⁷ s. Distância = (3,0 × 10⁸ m/s) × (3,2 × 10⁷ s) = (3,0 × 3,2) × 10⁸⁺⁷ m = 9,6 × 10¹⁵ m.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "20",
+      "textoBase": "Graffiti provides a platform for individuals to express themselves and share their ideas with a wider audience. It allows people to communicate their thoughts, emotions, and messages in a way that may not be possible through traditional forms of communication. For many, graffiti is a way to assert their identity and create a sense of belonging within their community. In marginalized communities, graffiti can serve as a powerful tool for self-expression and resistance. It can be used to reclaim public spaces and give a voice to those who may not have one otherwise.\n*(Fonte: https://tinyurl.com/ycku7xwe Acesso em: 21.09.2023. Adaptado.)*",
+      "enunciado": "De acordo com o texto, a manifestação artística em questão alia",
+      "alternativas": [
+        { "letra": "A", "texto": "autoexpressão ao sentimento de pertencimento." },
+        { "letra": "B", "texto": "identidade à cultura tradicionalista." },
+        { "letra": "C", "texto": "comunicação à vontade de vandalizar." },
+        { "letra": "D", "texto": "conformismo à expressão de emoções." },
+        { "letra": "E", "texto": "resistência ao Impressionismo histórico." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Inglês",
+      "explicacao": "O texto sobre grafite afirma que ele \"provides a platform for individuals to express themselves and share their ideas\" e é \"a way to assert their identity and create a sense of belonging within their community\". A alternativa A, \"autoexpressão ao sentimento de pertencimento\", sintetiza essas ideias.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "21",
+      "textoBase": "Analise a intervenção artística de Banksy.\n*[Descrição da imagem: Imagem de uma obra de Banksy mostrando uma garota soltando um balão em forma de coração, com um policial atrás dela, e a palavra \"DREAM\" (SONHO) em uma parede, sendo apagada por outro policial. O texto completo da imagem não foi fornecido, apenas a descrição.]*",
+      "enunciado": "A linguagem verbal e a não-verbal denotam que",
+      "alternativas": [
+        { "letra": "A", "texto": "políticas inconstitucionais tramam contra a liberdade de imprensa." },
+        { "letra": "B", "texto": "a expressão artística foi depredada pela polícia militar." },
+        { "letra": "C", "texto": "a busca pelos sonhos deixou de ser uma opção." },
+        { "letra": "D", "texto": "pessoas sonhadoras não têm iniciativa para efetivar conquistas." },
+        { "letra": "E", "texto": "o cancelamento nas redes sociais impede a realização de sonhos." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "Inglês",
+      "explicacao": "A imagem de Banksy (descrita) mostra uma menina soltando um balão em forma de coração (símbolo de esperança ou sonhos) e policiais apagando a palavra \"DREAM\" (sonho). Isso sugere que a busca por sonhos está sendo reprimida ou impedida. A alternativa C, \"a busca pelos sonhos deixou de ser uma opção\", captura essa denotação.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "22",
+      "textoBase": "“The aim of art is to represent not the outward appearance of things, but their inward significance.” ― Aristotle.",
+      "enunciado": "De acordo com a citação do filósofo grego Aristóteles, o objetivo da arte é",
+      "alternativas": [
+        { "letra": "A", "texto": "fazer o corpo humano sucumbir diante da beleza aparente das coisas." },
+        { "letra": "B", "texto": "reverenciar a beleza definida pela aparência física das coisas." },
+        { "letra": "C", "texto": "enaltecer o significado de beleza observado nas coisas físicas." },
+        { "letra": "D", "texto": "aprimorar a representação das pequenas coisas da natureza." },
+        { "letra": "E", "texto": "exprimir a essência das coisas." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Inglês",
+      "explicacao": "A citação de Aristóteles afirma que \"o objetivo da arte é representar não a aparência externa das coisas, mas seu significado interno\". \"Significado interno\" se alinha com a \"essência\" das coisas. Portanto, a alternativa E, \"exprimir a essência das coisas\", é a que melhor traduz o objetivo da arte segundo Aristóteles.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "23",
+      "textoBase": "Pintado com terra e cinzas das florestas, o professor e ativista indígena Ari Uru-Eu-Wau-Wau, que atuava como guardião da Terra Indígena Uru-Eu-Wau-Wau, agora tem a sua imagem gravada em um paredão, nos arredores da Catedral da Sé, na cidade de São Paulo. A pintura foi uma iniciativa do ativista e grafiteiro Thiago Mundano para os 469 anos de São Paulo. Ele, junto com outros artistas, fez a releitura da obra Bananal, de Lasar Segall, trazendo o ativista indígena como protagonista da intervenção.\n*(Fonte: https://tinyurl.com/4vzbzfce Acesso em: 22.09.2023. Adaptado.)*",
+      "enunciado": "Com base no texto, pode-se concluir corretamente que",
+      "alternativas": [
+        { "letra": "A", "texto": "o grafite é uma arte sacra de origem Barroca a qual reverencia artistas consagrados na História." },
+        { "letra": "B", "texto": "o Muralismo, movimento que remonta ao Classicismo, ressurge para preservar a arte moderna." },
+        { "letra": "C", "texto": "a arte urbana, quando desenvolvida coletivamente, é capaz de ressignificar matérias-primas descartáveis." },
+        { "letra": "D", "texto": "a mistura entre tradição e modernidade reforça as diferenças entre natureza e cidade, distanciando-as." },
+        { "letra": "E", "texto": "a arte é espaço de representatividade, sendo capaz de engajar a população em causas socioambientais." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Português",
+      "explicacao": "O texto descreve uma pintura de um ativista indígena em um paredão, uma \"intervenção\" urbana. Isso é um exemplo de arte urbana que aborda a representatividade indígena. Isso se conecta à ideia de que \"a arte é espaço de representatividade, sendo capaz de engajar a população em causas socioambientais\".",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "24",
+      "textoBase": "Pintado com terra e cinzas das florestas, o professor e ativista indígena Ari Uru-Eu-Wau-Wau, que atuava como guardião da Terra Indígena Uru-Eu-Wau-Wau, agora tem a sua imagem gravada em um paredão, nos arredores da Catedral da Sé, na cidade de São Paulo. A pintura foi uma iniciativa do ativista e grafiteiro Thiago Mundano para os 469 anos de São Paulo. Ele, junto com outros artistas, fez a releitura da obra Bananal, de Lasar Segall, trazendo o ativista indígena como protagonista da intervenção.\n*(Fonte: https://tinyurl.com/4vzbzfce Acesso em: 22.09.2023. Adaptado.)*",
+      "enunciado": "As preposições assumem diferentes sentidos, dependendo do contexto em que são empregadas. Isso pode ser observado nas expressões “com terra e cinzas”, “com outros artistas” e “em um paredão”, cujas preposições denotam, respectivamente.",
+      "alternativas": [
+        { "letra": "A", "texto": "matéria, conformidade e valor." },
+        { "letra": "B", "texto": "instrumento, comparação e modo." },
+        { "letra": "C", "texto": "instrumento, companhia e matéria." },
+        { "letra": "D", "texto": "matéria, companhia e lugar." },
+        { "letra": "E", "texto": "modo, companhia e origem." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Português",
+      "explicacao": "Analisando as preposições: \"com terra e cinzas\" indica matéria; \"com outros artistas\" indica companhia; \"em um paredão\" indica lugar.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "25",
+      "textoBase": "A medicina ocidental herdou do islã medieval uma visão integrada da arte e da ciência. Uma lição de humanismo, a medicina islâmica medieval desenvolveu-se no seio de uma civilização cosmopolita, altamente sofisticada, com base no estudo e no aprofundamento da tradição greco-latina. À semelhança dos antigos, os médicos no islã medieval defendiam um modelo salutogênico de cidade, isto é, orientado para a promoção de estilos de vida saudáveis por meio da arte, da arquitetura, do ambiente e do planejamento urbano. Desse modo, o islã medieval tornou-se pioneiro de um movimento, atualmente designado como “cidades saudáveis”, que só adquiriu expressão global a partir da década de 1980.",
+      "enunciado": "Segundo o texto",
+      "alternativas": [
+        { "letra": "A", "texto": "recusando os saberes de outros povos, a medicina islâmica medieval desenvolveu uma visão de saúde considerada equivocada pelos estudiosos contemporâneos." },
+        { "letra": "B", "texto": "aprofundando o estudo da tradição greco-latina, a medicina islâmica medieval desenvolveu o modelo de prescrição de remédios baseado na intuição e nas experiências prévias do médico." },
+        { "letra": "C", "texto": "buscando evitar o desenvolvimento de doenças, a medicina islâmica medieval defendia a realização de exames periódicos e a prática regular de exercícios físicos." },
+        { "letra": "D", "texto": "utilizando substâncias dos reinos vegetal, animal e mineral, a medicina islâmica medieval criou tratamentos baseados na dinamização dos agentes causadores de doenças." },
+        { "letra": "E", "texto": "retomando conceitos desenvolvidos pelos povos da Antiguidade, a medicina islâmica medieval lançou as bases de uma concepção contemporânea de saúde." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "O texto afirma que a medicina islâmica medieval \"desenvolveu-se ... com base no estudo e no aprofundamento da tradição greco-latina\" e defendia \"um modelo salutogênico de cidade\", tornando-se pioneira do movimento \"cidades saudáveis\". A alternativa E, \"retomando conceitos desenvolvidos pelos povos da Antiguidade, a medicina islâmica medieval lançou as bases de uma concepção contemporânea de saúde\", resume corretamente essa contribuição.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "26",
+      "textoBase": "A mandala é uma representação circular com diferentes padrões geométricos. Comum em diversas tradições espirituais e religiosas, a mandala expressa a conexão entre o homem e o universo. Entre outras formas de utilização, a pintura de mandalas é comumente usada como passatempo. Considere que, para pintar a mandala apresentada, uma pessoa tem, à sua disposição, somente as cores vermelho, azul, verde e amarelo. Cada espaço delimitado entre linhas, nessa mandala, será pintado com uma única cor, entre as disponíveis, e nenhum de seus espaços ficará sem ser colorido. Ao fixar a mandala na posição indicada pela figura, assinale a alternativa que apresenta, corretamente, o número total de formas diferentes de pintá-la.\n*[Descrição da imagem: Imagem de uma mandala circular dividida em 5 espaços concêntricos e radiais, com as opções de cores A, B, D, E em volta da mandala. A imagem não detalha o número exato de subdivisões internas, apenas a estrutura geral com 5 grandes áreas.]*",
+      "enunciado": "",
+      "alternativas": [
+        { "letra": "A", "texto": "4¹" },
+        { "letra": "B", "texto": "4¹²" },
+        { "letra": "C", "texto": "4²⁴" },
+        { "letra": "D", "texto": "4³⁶" },
+        { "letra": "E", "texto": "4⁴⁸" }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Matemática",
+      "explicacao": "A mandala tem 5 espaços a serem pintados com 4 cores disponíveis. Se cada espaço pode ser pintado com qualquer uma das 4 cores, e a questão não impõe restrições de adjacência ou rotação, o número de formas seria 4⁵ = 1024. As alternativas são potências de 4.",
+      "notaInconsistencia": "O gabarito oficial é D (4³⁶). A imagem descrita não mostra 36 espaços distintos. A questão pode envolver uma interpretação específica da imagem não totalmente clara na descrição, ou haver um erro na questão/gabarito. Assumindo o gabarito, a resposta seria 4³⁶."
+    },
+    {
+      "numero": "27",
+      "textoBase": "Leia o excerto de um texto escrito por Mário de Andrade em 1928.\nEsse tipo de igreja, fixado imortalmente nas duas São Francisco de Ouro Preto e São João d’El-Rei, não corresponde apenas ao gosto do tempo, refletindo as bases portuguesas da colônia, como já se distingue das soluções barrocas lusocoloniais, por uma tal ou qual denguice, por uma graça mais sensual e encantadora, por uma “delicadeza” tão suave, eminentemente brasileiras. As igrejas do Aleijadinho não se acomodam com o apelativo “belo”, próprio à São Pedro de Roma, à catedral de Reims, à Batalha ou à horrível São Marcos de Veneza. Mas são muito lindas, são bonitas como o quê. São dum sublime pequenino, dum equilíbrio, duma pureza tão bem arranjadinha e sossegada, que são feitas pra querer bem ou pra acarinhar, que nem na cantiga nordestina.\n*(ANDRADE, M. Aspectos das Artes Plásticas no Brasil. Belo Horizonte: Ed. Itatiaia, 1984. Adaptado.)*",
+      "enunciado": "Segundo o texto",
+      "alternativas": [
+        { "letra": "A", "texto": "o trabalho de Aleijadinho evidencia a busca pelo belo, com inspiração em igrejas europeias de estilo gótico, como a basílica de São Pedro e a catedral de Reims." },
+        { "letra": "B", "texto": "a obra de Aleijadinho se caracteriza por uma adaptação brasileira e original dos estilos artístico e arquitetônico trazidos da Europa pelos colonizadores portugueses." },
+        { "letra": "C", "texto": "a construção das igrejas de Aleijadinho evitava a beleza, buscando aproximar-se da aridez estética representada na cantiga nordestina, crítica à política colonial portuguesa." },
+        { "letra": "D", "texto": "o projeto de Aleijadinho para as igrejas de São Francisco, tanto de Ouro Preto quanto de São João d’El Rei, corresponde à estética de seu tempo, marcada pelo estilo neoclássico." },
+        { "letra": "E", "texto": "as igrejas de Aleijadinho apresentam características incompatíveis com a religiosidade cristã, embora valorizem a sensualidade em detrimento da castidade esperada dos fiéis." }
+      ],
+      "respostaCorreta": "B",
+      "disciplina": "História",
+      "explicacao": "O texto de Mário de Andrade descreve as igrejas do Aleijadinho como possuindo características \"eminentemente brasileiras\", distinguindo-as das soluções barrocas lusocoloniais e das igrejas europeias. Isso sugere uma adaptação original brasileira dos estilos europeus.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "28",
+      "textoBase": "O Homem Vitruviano foi desenhado por Leonardo da Vinci em um de seus diários, conforme a imagem.\n*[Descrição da imagem: Imagem do Homem Vitruviano de Leonardo da Vinci.]*\nA imagem é parte de um conjunto de estudos, chamado de Cânone das Proporções por alguns especialistas, e sobre ela é correto afirmar que",
+      "enunciado": "",
+      "alternativas": [
+        { "letra": "A", "texto": "explora a dor, a angústia, a aflição e a tristeza, investigando a universalidade dos sentimentos humanos e antecipando ideias que, posteriormente, seriam exploradas pelas ciências da mente, como a psicologia e a psicanálise." },
+        { "letra": "B", "texto": "apresenta estilo ousado, vanguardista e libertador que combina imagens bizarras, representações ilógicas e conjuntos irreais de composição da imagem com a destreza técnica acadêmica e tradicional." },
+        { "letra": "C", "texto": "representa a emancipação do homem simples, empregando um estilo realista de fácil compreensão, evitando a abstração e o elitismo em favor da acessibilidade, em linguagem simples, para defender os valores do socialismo." },
+        { "letra": "D", "texto": "faz referência ao fazer científico racional e, simultaneamente, indica como, na modernidade, o homem passa a se colocar no centro das medições e do próprio universo, apresentando a ideia do antropocentrismo." },
+        { "letra": "E", "texto": "demonstra aversão aos conceitos de autoridade e de poder, fazendo críticas comportamentais e políticas, expressas em questões que atravessam a realidade social pelo uso de formas, cores e traços em suportes inusitados, como muros e paredes." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Raciocínio Lógico",
+      "explicacao": "O texto da questão, ao descrever o Homem Vitruviano, afirma que ele \"faz referência ao fazer científico racional e, simultaneamente, indica como, na modernidade, o homem passa a se colocar no centro das medições e do próprio universo, apresentando a ideia do antropocentrismo.\"",
+      "notaInconsistencia": "O gabarito oficial é A. A alternativa A da prova é \"explora a dor, a angústia, a aflição e a tristeza...\". A alternativa D da prova é \"faz referência ao fazer científico racional...\". A descrição do texto da questão se alinha com a alternativa D. Segue-se o gabarito oficial (A), mas há uma forte divergência com o texto fornecido na própria questão."
+    },
+    {
+      "numero": "29",
+      "textoBase": "Não faltam opções de “rolês” na cidade de São Paulo, que está repleta de eventos culturais e artísticos durante o ano inteiro. São tantas opções que sites e jornais oferecem, semanalmente, dicas de passeios. Suponha que um site tenha realizado uma pesquisa da qual foram compilados os quadros que mostram as classificações obtidas por 40 “rolês” paulistanos. Cada um desses “rolês” foi classificado apenas uma vez em cada quadro.\nGrau de Satisfação:\n1 estrela: 9\n2 estrelas: 14\n3 estrelas: 10\n4 estrelas: 5\n5 estrelas: 2\nCusto por pessoa:\n$$$ (alto): 3\n$$ (mediano): 16\n$ (baixo): 9\nGratuito: 12",
+      "enunciado": "Com base nessas informações, é correto afirmar que",
+      "alternativas": [
+        { "letra": "A", "texto": "pelo menos um “rolê” foi classificado como gratuito, quando se tomam apenas aqueles com 3 ou mais estrelas." },
+        { "letra": "B", "texto": "foram classificados como custo mediano todos os “rolês” com exatamente 4 estrelas." },
+        { "letra": "C", "texto": "nenhum “rolê” é classificado como custo alto, ao considerar unicamente aqueles com 3 ou menos estrelas." },
+        { "letra": "D", "texto": "foram classificados como custo baixo pelo menos dois “rolês” com exatamente 4 estrelas." },
+        { "letra": "E", "texto": "existem “rolês” com exatamente 5 estrelas em todas as quatro categorias de custo por pessoa." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "História",
+      "explicacao": "As tabelas de \"Grau de Satisfação\" e \"Custo por pessoa\" são apresentadas de forma independente para os 40 \"rolês\".",
+      "notaInconsistencia": "O gabarito oficial é D. Para afirmar D (\"foram classificados como custo baixo pelo menos dois “rolês” com exatamente 4 estrelas\"), seria necessária uma tabela cruzada ou mais informações correlacionando as duas classificações. Com os dados fornecidos, não é possível fazer essa inferência diretamente."
+    },
+    {
+      "numero": "30",
+      "textoBase": "A música, como expressão, forma e sentido da Arte, abre caminhos de estudo ao campo da Geografia, principalmente devido ao fato de estar ligada aos categoriais geográficos, como, por exemplo, ao conceito de Lugar, sobretudo quando compreendemos que os indivíduos, ao habitar os distintos ambientes, percebem os sons e as músicas dos lugares nos quais estão inseridos a partir das sensações que ali são vivenciadas e das percepções que são adquiridas em sua experiência.\n*(Fonte: https://tinyurl.com/4n8nwa4r Acesso em: 24.09.2023. Adaptado.)*",
+      "enunciado": "Segundo o texto, podemos afirmar corretamente que",
+      "alternativas": [
+        { "letra": "A", "texto": "a música é uma expressão das relações de poder, portanto dissociada do conceito de Território." },
+        { "letra": "B", "texto": "as músicas são expressões regionais, devendo ser analisadas pela categoria Região." },
+        { "letra": "C", "texto": "a experiência humana aniquila a relação da música com o Espaço Geográfico." },
+        { "letra": "D", "texto": "a experiência humana desvincula a música da categoria Paisagem." },
+        { "letra": "E", "texto": "a música está conexa à conceituação de Lugar." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Geografia",
+      "explicacao": "O texto afirma que a música \"está ligada aos categoriais geográficos, como, por exemplo, ao conceito de Lugar...\". A alternativa E, \"a música está conexa à conceituação de Lugar\", é uma conclusão direta.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "31",
+      "textoBase": "As notas musicais são uma convenção, tal como as conhecemos, atribuídas ao monge italiano Guido D’Arezzo (992 – 1050). Antes de iniciar uma apresentação, uma orquestra precisa ter todos os instrumentos afinados em uma mesma nota. Quem comanda essa afinação é o spalla (ajudante do Maestro), geralmente o 1º violinista. Para isso, ele toca o seu instrumento na nota musical que “guia” a peça a ser apresentada. Em uma certa apresentação, o spalla tocou, como nota de referência de afinação, a mais aguda dentre as que estão representadas no gráfico.\n*[Descrição da imagem: Gráfico de Frequência (Hz) versus Período (s) com pontos representando as notas musicais Lá, Sol, Fá, Mi, Ré. A nota Lá está no ponto mais alto no eixo de Frequência, e mais à esquerda no eixo de Período. As outras notas seguem em ordem decrescente de frequência.]*",
+      "enunciado": "Assinale a alternativa que apresenta, corretamente, a nota tocada.",
+      "alternativas": [
+        { "letra": "A", "texto": "Ré." },
+        { "letra": "B", "texto": "Mi." },
+        { "letra": "C", "texto": "Fá." },
+        { "letra": "D", "texto": "Sol." },
+        { "letra": "E", "texto": "Lá." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Física",
+      "explicacao": "O gráfico (descrito) mostra Frequência x Período. A nota mais aguda é a que possui a maior frequência. Visualmente, a nota Lá está no ponto mais alto no eixo de Frequência.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "32",
+      "textoBase": "Leia o trecho da canção Fotografia 3x4, composta por Belchior.\nEu me lembro muito bem do dia que eu cheguei / Jovem que desce do norte pra cidade grande / Os pés cansados e feridos de andar légua tirana / De lágrimas nos olhos de ler o Pessoa / E de ver o verde da cana / Em cada esquina que eu passava, um guarda me parava / Pedia os meus documentos e depois sorria / Examinando o 3x4 da fotografia / E estranhando o nome do lugar de onde eu vinha […] A minha história é talvez / É talvez igual a tua, jovem que desceu do norte / Que no sul viveu na rua.",
+      "enunciado": "O trecho da canção retrata a",
+      "alternativas": [
+        { "letra": "A", "texto": "questão da migração e as agruras vivenciadas pelos migrantes." },
+        { "letra": "B", "texto": "fuga de cérebros brasileiros para algum país do exterior." },
+        { "letra": "C", "texto": "migração pendular vivenciada por trabalhadores nas áreas rurais." },
+        { "letra": "D", "texto": "migração de retorno de um brasileiro em Portugal." },
+        { "letra": "E", "texto": "transumância realizada por refugiados brasileiros desempregados no Japão." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Geografia",
+      "explicacao": "O trecho da canção \"Fotografia 3x4\" narra a experiência de um \"Jovem que desce do norte pra cidade grande\" e que \"no sul viveu na rua\", retratando a migração interna e suas dificuldades.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "33",
+      "textoBase": "Leia o trecho da canção O Pulso, composta por Arnaldo Antunes, Marcelo Fromer e Tony Bellotto.\n1. O pulso ainda pulsa / 2. O pulso ainda pulsa / 3. Peste bubônica, câncer, pneumonia / 4. Raiva, rubéola, tuberculose, anemia / 5. Rancor, cisticercose, caxumba, difteria / 6. Encefalite, faringite, gripe, leucemia / 7. O pulso ainda pulsa / 8. O pulso ainda pulsa / 9. Hepatite, escarlatina, estupidez, paralisia / 10. Toxoplasmose, sarampo, esquizofrenia / 11. Úlcera, trombose, coqueluche, hipocondria / 12. Sífilis, ciúmes, asma, cleptomania / 13. O corpo ainda é pouco [...]",
+      "enunciado": "Sobre as doenças citadas no texto, é correto afirmar que",
+      "alternativas": [
+        { "letra": "A", "texto": "todas, no verso 3, podem se originar a partir do crescimento desordenado de células." },
+        { "letra": "B", "texto": "todas, no verso 4, podem ser transmitidas pelas picadas de insetos parasitas contaminados." },
+        { "letra": "C", "texto": "nenhuma, no verso 6, pode ser transmitida por meio de contato direto com pessoas infectadas." },
+        { "letra": "D", "texto": "apenas uma, no verso 10, pode ser causada por um tipo de micro-organismo parasita presente na água e em alimentos contaminados." },
+        { "letra": "E", "texto": "nenhuma, no verso 11, pode ser transmitida por pessoas doentes através de gotículas de saliva contaminada, expelidas ao tossir, espirrar ou falar." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Biologia",
+      "explicacao": "Analisando as doenças no verso 10 (\"Toxoplasmose, sarampo, esquizofrenia\"): Toxoplasmose é causada por um protozoário parasita (Toxoplasma gondii) que pode ser contraído por água e alimentos contaminados. Sarampo é viral. Esquizofrenia é um transtorno mental. A alternativa D afirma que \"apenas uma, no verso 10, pode ser causada por um tipo de micro-organismo parasita presente na água e em alimentos contaminados\" (referindo-se à Toxoplasmose). Isso requer conhecimento externo de biologia.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "34",
+      "textoBase": "As brincadeiras passam de uma geração a outra, resgatando traços da cultura e da história de um povo. No Brasil, um exemplo seriam as brincadeiras de roda.",
+      "enunciado": "Se, em uma brincadeira de roda, Letícia é a sexta à esquerda de Gustavo e a sétima à direita de Gustavo, assinale a alternativa que apresenta exatamente o número total de crianças nessa brincadeira de roda.",
+      "alternativas": [
+        { "letra": "A", "texto": "11." },
+        { "letra": "B", "texto": "12." },
+        { "letra": "C", "texto": "13." },
+        { "letra": "D", "texto": "14." },
+        { "letra": "E", "texto": "15." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "Raciocínio Lógico",
+      "explicacao": "Se Letícia é a sexta à esquerda de Gustavo, há 5 crianças entre eles no sentido anti-horário. Se é a sétima à direita, há 6 crianças entre eles no sentido horário. Total = Gustavo (1) + Letícia (1) + 5 (à esquerda) + 6 (à direita) = 13 crianças.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "35",
+      "textoBase": "O filme brasileiro Bye Bye Brasil, de 1980, conta a história de uma trupe de artistas ambulantes que viaja pelo interior do Brasil. Um caminhão colorido carrega a Caravana Rolidei e suas atrações, fazendo espetáculos e fugindo da concorrência da televisão. Eles atravessam o Nordeste e o Norte do país, do vale do São Francisco até a rodovia Transamazônica.",
+      "enunciado": "Com base no texto, é correto afirmar que o filme",
+      "alternativas": [
+        { "letra": "A", "texto": "revela a intencionalidade da ditadura Varguista no Brasil de levar espetáculos de qualidade para as famílias assentadas ao longo da rodovia Transamazônica, construída na década de 1980." },
+        { "letra": "B", "texto": "conta a história de um grupo de artistas mambembes que transita pela porção setentrional do território brasileiro numa época em que a televisão se massificava no Brasil." },
+        { "letra": "C", "texto": "retrata um período da história brasileira em que os artistas, remunerados pelo Estado, deslocavam-se pela porção meridional do Brasil para proporcionar espetáculos gratuitos à população." },
+        { "letra": "D", "texto": "narra a saga de uma trupe de artistas que resolve encenar espetáculos em todo o trajeto da Bacia do Rio São Francisco, cujo rio principal nasce na Bahia e deságua no rio Amazonas." },
+        { "letra": "E", "texto": "descreve, com bom humor, a viagem de um grupo de comediantes que rouba um caminhão para poder se deslocar pelo interior do Brasil encenando espetáculos circenses." }
+      ],
+      "respostaCorreta": "B",
+      "disciplina": "Geografia",
+      "explicacao": "O filme \"Bye Bye Brasil\" (1980) mostra uma trupe que viaja pelo Nordeste e Norte, \"fugindo da concorrência da televisão\", indicando a massificação da TV na época. A porção setentrional refere-se ao Norte.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "36",
+      "textoBase": "Na década de 1950, um grupo de jovens cineastas deu início a um movimento que pretendia combater a influência estadunidense na produção cultural brasileira. Esses jovens defendiam a produção, a baixo custo, de filmes que, simultaneamente, renovassem a estética do cinema nacional e abordassem os problemas do Brasil de forma crítica.",
+      "enunciado": "Esse movimento ficou conhecido como",
+      "alternativas": [
+        { "letra": "A", "texto": "Bossa Nova." },
+        { "letra": "B", "texto": "Chanchada." },
+        { "letra": "C", "texto": "Cinema Cantado." },
+        { "letra": "D", "texto": "Cinema Novo." },
+        { "letra": "E", "texto": "Cinema Mudo." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "História",
+      "explicacao": "O movimento descrito, que buscava combater a influência estadunidense, produzir filmes de baixo custo com estética renovada e crítica social na década de 1950, é o Cinema Novo.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "37",
+      "textoBase": "Em uma cena do filme Jurassic Park – Parque dos Dinossauros, de Steven Spielberg, o personagem John Hammond explica a um grupo de cientistas que, dentro de um mosquito fossilizado em âmbar, foi encontrado sangue de dinossauros. Essa descoberta, no filme, permitiu a extração do DNA que originou clones de dinossauros. Em um comentário sobre o filme, a bióloga Maria Alejandra Perotti, da Universidade de Reading, na Inglaterra, afirmou que: “Não é possível extrair DNA preservado em âmbar, mas isso não significa que a técnica de extração do DNA não seja viável ”. Em suas pesquisas, a bióloga coordenou, na América do Sul, um grupo de cientistas que, ao estudar múmias humanas de 2 000 anos, encontrou lêndeas (ovos) de piolhos (insetos parasitas), as quais permaneceram intactas e permitiram fornecer informações genéticas de boa qualidade sobre o DNA dos hospedeiros. Essas amostras conservaram-se por conta de uma espécie de “cimento”, usado pelas fêmeas dos piolhos para colar seus ovos (lêndeas) nos cabelos dos hospedeiros humanos. A partir das análises de amostras de DNA encontradas nesse “cimento”, os cientistas puderam descobrir mais informações sobre as populações antigas da América do Sul, como as rotas de migração no continente, o sexo das múmias e até as possíveis causas de morte dos seres humanos.",
+      "enunciado": "Com base no texto, é correto afirmar que",
+      "alternativas": [
+        { "letra": "A", "texto": "as amostras de DNA, encontradas nos insetos fossilizados em âmbar, forneceram informações valiosas sobre as populações antigas da América do Sul." },
+        { "letra": "B", "texto": "as análises das lêndeas, encontradas nos cabelos dos seres humanos mumificados, evidenciaram a morte dos hospedeiros por malária transmitida pela picada da fêmea dos piolhos." },
+        { "letra": "C", "texto": "as amostras do material genético, encontrado no “cimento” das lêndeas, forneceram informações sobre os minerais usados nos processos de mumificação." },
+        { "letra": "D", "texto": "as análises realizadas no material genético do “cimento” produzido pelos próprios parasitas permitiram caracterizar os hospedeiros." },
+        { "letra": "E", "texto": "as pesquisas realizadas nos cabelos das múmias evidenciaram a presença de substâncias tóxicas produzidas pelas lêndeas." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Biologia",
+      "explicacao": "O texto informa que análises do DNA encontrado no \"cimento\" das lêndeas de piolhos em múmias permitiram descobrir informações sobre os hospedeiros humanos (populações antigas da América do Sul).",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "38",
+      "textoBase": "No Egito Antigo, a mumificação consistia em um conjunto de procedimentos químicos e físicos, incluindo a retirada de vísceras e órgãos, com a finalidade de preservar os corpos dos mortos.",
+      "enunciado": "Esse processo",
+      "alternativas": [
+        { "letra": "A", "texto": "era realizado entre os escravizados e as pessoas de classes sociais baixas, já que o faraó e sua família eram cremados em rituais de purificação da alma." },
+        { "letra": "B", "texto": "teve início após a grande epidemia de varíola como uma tentativa de frear a disseminação do vírus e de impedi-lo de continuar se multiplicando." },
+        { "letra": "C", "texto": "estava relacionado à crença religiosa da vida após a morte, permitiu o acúmulo de conhecimentos sobre anatomia humana e o desenvolvimento de tratamentos de saúde." },
+        { "letra": "D", "texto": "foi duramente criticado por sacerdotes e por pessoas comuns, pois eles acreditavam que a alma sairia do corpo aberto e se perderia para sempre." },
+        { "letra": "E", "texto": "deveria obrigatoriamente ser feito pelos membros da família do morto, sob comando de uma liderança religiosa local." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "História",
+      "explicacao": "A mumificação no Egito Antigo estava ligada à crença na vida após a morte e permitiu o desenvolvimento de conhecimentos sobre anatomia e tratamentos de saúde.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "39",
+      "textoBase": "Os indígenas Yanomami desempenham um papel fundamental na constituição da sociedade brasileira, contribuindo de maneira significativa para a riqueza e a diversidade do panorama cultural do país. No entanto, a presença do garimpo na terra indígena Yanomami contaminou a água dos rios da região com mercúrio, o que representa uma ameaça à existência dessa cultura. Na extração do ouro, os garimpeiros utilizam bateia e água para separar pequenas partículas de ouro da areia e das outras partículas menores. Porém, para separar pequenas partículas de ouro de outros sedimentos, os garimpeiros utilizam outro processo que consiste em adicionar mercúrio à mistura coletada no garimpo. Após esse processo, o mercúrio é descartado nos rios, e a contaminação da água faz o mercúrio atingir quase que diretamente os indígenas, o que provoca impactos na saúde dessa população. A análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de mercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado pela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que preveem doenças graves a essa população em médio e longo prazo.\n*(Fonte: https://tinyurl.com/mrx5xznz Acesso em: 26.09.2023. Adaptado.)*",
+      "enunciado": "De acordo com o texto, a quantidade de mercúrio por grama de cabelo encontrada nos indígenas é N vezes a quantidade tolerada pela OMS. Assinale a alternativa que contém o correto valor de N.",
+      "alternativas": [
+        { "letra": "A", "texto": "1." },
+        { "letra": "B", "texto": "2." },
+        { "letra": "C", "texto": "3." },
+        { "letra": "D", "texto": "4." },
+        { "letra": "E", "texto": "5." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "Química",
+      "explicacao": "A amostra de cabelo revelou 25,2 µg de mercúrio em 4,2 g de cabelo. Concentração = 25,2 µg / 4,2 g = 6 µg/g. O limite da OMS é 2 µg/g. N = Concentração encontrada / Limite OMS = 6 µg/g / 2 µg/g = 3.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "40",
+      "textoBase": "Os indígenas Yanomami desempenham um papel fundamental na constituição da sociedade brasileira, contribuindo de maneira significativa para a riqueza e a diversidade do panorama cultural do país. No entanto, a presença do garimpo na terra indígena Yanomami contaminou a água dos rios da região com mercúrio, o que representa uma ameaça à existência dessa cultura. Na extração do ouro, os garimpeiros utilizam bateia e água para separar pequenas partículas de ouro da areia e das outras partículas menores. Porém, para separar pequenas partículas de ouro de outros sedimentos, os garimpeiros utilizam outro processo que consiste em adicionar mercúrio à mistura coletada no garimpo. Após esse processo, o mercúrio é descartado nos rios, e a contaminação da água faz o mercúrio atingir quase que diretamente os indígenas, o que provoca impactos na saúde dessa população. A análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de mercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado pela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que preveem doenças graves a essa população em médio e longo prazo.\n*(Fonte: https://tinyurl.com/mrx5xznz Acesso em: 26.09.2023. Adaptado.)*",
+      "enunciado": "Assinale a alternativa que apresenta o nome correto do processo de separação de misturas empregado para separar pequenas partículas de ouro da areia.",
+      "alternativas": [
+        { "letra": "A", "texto": "Levigação." },
+        { "letra": "B", "texto": "Dissolução fracionada." },
+        { "letra": "C", "texto": "Sublimação." },
+        { "letra": "D", "texto": "Decantação." },
+        { "letra": "E", "texto": "Filtração." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Química",
+      "explicacao": "O processo de usar bateia e água para separar ouro (mais denso) da areia (menos densa) é a levigação.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "41",
+      "textoBase": "NFT X Sustentabilidade\nBens não fungíveis são aqueles cujo valor é variável e não é considerado fixo, como, por exemplo, obras de arte. NFT (Non-Fungible Token ou Token Não Fungível) é uma espécie de “certificação digital” que usa a tecnologia de entrelaçamento pela criptografia blockchain como elemento validador para bens não fungíveis. Essa tecnologia visa definir a originalidade, a autenticidade e a exclusividade de um bem digital, tais como obras de arte e seus certificados, imagens, pinturas, músicas, vídeos, documentos em geral etc.\nApesar do avanço que essa tecnologia representa, em 2021, a Universidade de Cambridge (Inglaterra) publicou um artigo alertando que, em virtude da constante mineração de dados executada por vários computadores potentes conectados simultaneamente à internet, o consumo de energia provocado pelo blockchain, em 1 ano, pode ser até maior do que o consumo anual de um país como a Argentina (cerca de 120×10⁹ kWh). Por exemplo, em apenas uma hora, a principal operadora de NFT/blockchain atualmente chega a consumir 50 kWh de energia por uma transação realizada. Além do mais, podem ocorrer milhares dessas transações por dia.\nPara manter essas operações em funcionamento, geralmente os equipamentos são conectados em rede de energia que gera impacto ambiental. É o caso da produção de energia por hidrelétricas, cujo movimento das turbinas aquece a água, que é dissipada, parcialmente, por evaporação, mas também é devolvida para os rios. O ponto crucial é que a liberação dessas águas mais quentes pode acabar com a vida próxima, podendo provocar problemas na flora e na fauna ao redor desses rios.\n*(Fonte: https://tinyurl.com/yc5v4xxe Acesso em: 26.09.2023. Adaptado.)*",
+      "enunciado": "De acordo com as informações apresentadas no texto, podemos afirmar corretamente que",
+      "alternativas": [
+        { "letra": "A", "texto": "a mineração de dados consome muita energia devido às jazidas de minério." },
+        { "letra": "B", "texto": "a NFT é uma tecnologia que envolve apenas conceitos de eletrônica quântica." },
+        { "letra": "C", "texto": "a Argentina consome, em kWh/ano, o equivalente a 120 milhões de kWh de energia." },
+        { "letra": "D", "texto": "a principal operadora de blockchain citada consome muito menos energia do que a Argentina." },
+        { "letra": "E", "texto": "a principal operadora de NFT pode usar, por cada transação, em 1 h, até 50 000 W de potência." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Física",
+      "explicacao": "A principal operadora consome 50 kWh em 1 hora. Potência = Energia / Tempo = 50 kWh / 1 h = 50 kW. Convertendo para Watts: 50 kW = 50 * 1000 W = 50 000 W.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "42",
+      "textoBase": "NFT X Sustentabilidade\nBens não fungíveis são aqueles cujo valor é variável e não é considerado fixo, como, por exemplo, obras de arte. NFT (Non-Fungible Token ou Token Não Fungível) é uma espécie de “certificação digital” que usa a tecnologia de entrelaçamento pela criptografia blockchain como elemento validador para bens não fungíveis. Essa tecnologia visa definir a originalidade, a autenticidade e a exclusividade de um bem digital, tais como obras de arte e seus certificados, imagens, pinturas, músicas, vídeos, documentos em geral etc.\nApesar do avanço que essa tecnologia representa, em 2021, a Universidade de Cambridge (Inglaterra) publicou um artigo alertando que, em virtude da constante mineração de dados executada por vários computadores potentes conectados simultaneamente à internet, o consumo de energia provocado pelo blockchain, em 1 ano, pode ser até maior do que o consumo anual de um país como a Argentina (cerca de 120×10⁹ kWh). Por exemplo, em apenas uma hora, a principal operadora de NFT/blockchain atualmente chega a consumir 50 kWh de energia por uma transação realizada. Além do mais, podem ocorrer milhares dessas transações por dia.\nPara manter essas operações em funcionamento, geralmente os equipamentos são conectados em rede de energia que gera impacto ambiental. É o caso da produção de energia por hidrelétricas, cujo movimento das turbinas aquece a água, que é dissipada, parcialmente, por evaporação, mas também é devolvida para os rios. O ponto crucial é que a liberação dessas águas mais quentes pode acabar com a vida próxima, podendo provocar problemas na flora e na fauna ao redor desses rios.\n*(Fonte: https://tinyurl.com/yc5v4xxe Acesso em: 26.09.2023. Adaptado.)*",
+      "enunciado": "O problema gerado pela liberação da água quente nos rios e nos oceanos é a alteração na quantidade de oxigênio dissolvido na água, uma vez que a solubilidade do oxigênio na água é inversamente proporcional à temperatura. Diante disso, assinale a alternativa que apresenta corretamente o esboço do gráfico que mostra a solubilidade do oxigênio na água (mg/L) em função da temperatura (oC).\n*[Descrição da imagem: Cinco opções de gráficos de Solubilidade de O2 (mg/L) vs. T (ºC).\n(A) Gráfico com curva ascendente.\n(B) Gráfico com curva descendente.\n(C) Gráfico com curva em forma de \"U\".\n(D) Gráfico com curva em forma de \"U\" invertido.\n(E) Gráfico com linha reta horizontal.]*",
+      "alternativas": [
+        { "letra": "A", "texto": "Gráfico com curva ascendente." },
+        { "letra": "B", "texto": "Gráfico com curva descendente." },
+        { "letra": "C", "texto": "Gráfico com curva em forma de \"U\"." },
+        { "letra": "D", "texto": "Gráfico com curva em forma de \"U\" invertido." },
+        { "letra": "E", "texto": "Gráfico com linha reta horizontal." }
+      ],
+      "respostaCorreta": "B",
+      "disciplina": "Química",
+      "explicacao": "O texto diz que \"a solubilidade do oxigênio na água é inversamente proporcional à temperatura\". Isso significa que, com o aumento da temperatura, a solubilidade do oxigênio diminui. Um gráfico que representa essa relação é uma curva descendente.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "43",
+      "textoBase": "As Ciências e a Tecnologia têm um papel fundamental na evolução da sociedade. Elas estão presentes em todos os aspectos da vida, no compartilhamento de conhecimentos e na realização de experiências. Com o objetivo de estudar a digestão de proteínas no corpo humano, foi realizado um experimento, utilizando quatro tubos de ensaio numerados, os quais continham soluções diferentes. Em cada um desses tubos, foi adicionado um pedaço de carne, que contém moléculas inteiras de proteínas. Os tubos foram tampados e mantidos em banho-maria a 37 o C, em agitação constante.\nTubo 1: carne + solução aquosa de HCl 3,5 % + pepsina.\nTubo 2: carne + suco gástrico.\nTubo 3: carne + suco pancreático.\nTubo 4: carne + suco gástrico fervido.",
+      "enunciado": "Após o tempo necessário para a digestão enzimática da carne, fragmentos menores de proteínas dessa carne podem ser encontrados",
+      "alternativas": [
+        { "letra": "A", "texto": "apenas no tubo 4." },
+        { "letra": "B", "texto": "apenas nos tubos 3 e 4." },
+        { "letra": "C", "texto": "apenas nos tubos 1 e 2." },
+        { "letra": "D", "texto": "apenas nos tubos 1, 2 e 3." },
+        { "letra": "E", "texto": "apenas nos tubos 2, 3 e 4." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Biologia",
+      "explicacao": "Tubo 1 (carne + HCl + pepsina): Digestão ocorre (pepsina ativa em meio ácido).\nTubo 2 (carne + suco gástrico): Digestão ocorre (suco gástrico contém pepsina e HCl).\nTubo 3 (carne + suco pancreático): Digestão ocorre (suco pancreático contém enzimas proteolíticas).\nTubo 4 (carne + suco gástrico fervido): Digestão não ocorre (enzimas desnaturadas pela fervura).\nFragmentos menores de proteínas serão encontrados nos tubos 1, 2 e 3.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "44",
+      "textoBase": "O futebol pode ser visto como uma arte que une a racionalidade com a emoção: um ponto de encontro para as multidões de praticantes e espectadores. Suponha que um técnico de time de futebol tenha fixado em um quadro a escalação das jogadoras para três jogos amistosos programados. Desse quadro, reproduz-se um trecho, no qual é possível ver que, em cada um dos amistosos, 4 jogadoras são escaladas, sendo 2 delas zagueiras e 2 atacantes.\n1º Amistoso: Lúcia, Carol, Maria, Alice, Sônia\n2º Amistoso: Carol, Maria, Francisca\n3º Amistoso: Maria, Lúcia, Alice, Sônia.",
+      "enunciado": "Sabendo que Francisca é atacante, é necessarily correto afirmar que.",
+      "alternativas": [
+        { "letra": "A", "texto": "Alice é zagueira." },
+        { "letra": "B", "texto": "Carol é zagueira." },
+        { "letra": "C", "texto": "Maria é zagueira." },
+        { "letra": "D", "texto": "Lúcia é atacante." },
+        { "letra": "E", "texto": "Sônia é atacante." }
+      ],
+      "respostaCorreta": "B",
+      "disciplina": "Raciocínio Lógico",
+      "explicacao": "",
+      "notaInconsistencia": "O gabarito oficial é B (Carol é zagueira). As informações sobre as escalações nos amistosos (1º Amistoso: 5 jogadoras listadas; 2º Amistoso: 3 jogadoras; 3º Amistoso: 4 jogadoras) são inconsistentes com a regra de \"4 jogadoras são escaladas\" e não permitem uma dedução lógica clara da posição de Carol sem mais informações ou correções nos dados da questão."
+    },
+    {
+      "numero": "45",
+      "textoBase": "Apesar de escasso, o circo com tenda, picadeiro, arquibancada e diversos artistas existe até hoje em várias partes do mundo, inclusive no Brasil. Um de seus espetáculos mais famosos é realizado por um malabarista andando por uma “corda bamba” (elástica) esticada sobre o picadeiro. Com o intuito de provocar comoção na plateia, ao chegar próximo ao ponto central da corda, o artista finge uma queda e cai sentado na corda, fazendo-a sofrer uma deflexão máxima em relação ao ponto de equilíbrio",
+      "enunciado": "Na cena descrita, após o artista simular a queda, no instante em que a corda atinge a deflexão máxima, podemos afirmar corretamente que.",
+      "alternativas": [
+        { "letra": "A", "texto": "não há energia potencial envolvida no sistema." },
+        { "letra": "B", "texto": "há apenas energia potencial gravitacional envolvida." },
+        { "letra": "C", "texto": "as energias cinética e potencial elástica são máximas." },
+        { "letra": "D", "texto": "a energia potencial elástica é máxima e a cinética é mínima." },
+        { "letra": "E", "texto": "a energia potencial elástica e a energia potencial gravitacional são nulas." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Física",
+      "explicacao": "No instante de deflexão máxima da corda elástica, o artista está momentaneamente em repouso (energia cinética mínima ou zero). A corda está esticada ao máximo (energia potencial elástica máxima).",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "46",
+      "textoBase": "Apesar de a estreia, em 1877, do balé “O Lago dos Cisnes”, do compositor russo P. I. Tchaikovsky, ter sido um fracasso, hoje ele é um dos mais aclamados no mundo das artes. No terceiro ato do balé, o(a) bailarino(a) que interpreta o Cisne Negro realiza uma sequência de 32 fouettés. Um fouetté é um movimento circular em torno do próprio corpo do(a) bailarino(a), que funciona como um eixo central. Nesse movimento giratório, considerado um dos mais difíceis do balé, o(a) bailarino(a) mantém o corpo ereto com apenas a ponta de um dos pés no piso. A cada volta, o calcanhar do pé, que está no chão, sobe e desce à medida que mantém a energia envolvida no sistema. Enquanto isso, o(a) bailarino(a) dobra e estica a outra perna, mantendo-a no ar sem tocar o piso.",
+      "enunciado": "Adotando-se um observador externo como referencial e baseando-se na descrição apresentada, é correto afirmar que uma das grandezas físicas observada para a manutenção desse movimento rotacional é.",
+      "alternativas": [
+        { "letra": "A", "texto": "a massa vetorial do corpo." },
+        { "letra": "B", "texto": "a força centrífuga da perna." },
+        { "letra": "C", "texto": "a força elástica da perna." },
+        { "letra": "D", "texto": "a velocidade angular do corpo." },
+        { "letra": "E", "texto": "a temperatura do corpo." }
+      ],
+      "respostaCorreta": "D",
+      "disciplina": "Física",
+      "explicacao": "O fouetté é um movimento circular em torno do próprio corpo. A grandeza física que descreve a taxa de rotação é a velocidade angular.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "47",
+      "textoBase": "Emojis são elementos visuais que representam conceitos, emoções e objetos em forma de ícones e estão intrinsecamente ligados à cultura digital por facilitarem a comunicação on-line. Equações matemáticas podem ser utilizadas para modelar fenômenos e situações. Na imagem, o plano cartesiano ilustra o uso de 4 curvas para modelar um emoji. Por exemplo, a curva 2 (c2) é descrita pela função y = x² – 8x +18, definida no intervalo real [2 ; 6].\n*[Descrição da imagem: Imagem de plano cartesiano com 4 curvas (c1, c2, c3, c4) formando um emoji. c1 e c3 são os olhos, c2 é a parte superior da boca (sorriso), c4 é a parte inferior da boca.]*",
+      "enunciado": "Assinale a alternativa que apresenta, corretamente, a função correspondente à curva 4 (c4) e o intervalo real no qual ela deve ser definida.",
+      "alternativas": [
+        { "letra": "A", "texto": "y = x²/4 - 8; [–4 ; 4]." },
+        { "letra": "B", "texto": "y = x²/4 + 8; [–4 ; 4]." },
+        { "letra": "C", "texto": "y = x²/2 - 8; [–6 ; –4]." },
+        { "letra": "D", "texto": "y = x²/2 + 8; [–6 ; –4]." },
+        { "letra": "E", "texto": "y = x²/4 - 8; [–4 ; 6]." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Matemática",
+      "explicacao": "A curva c4 (descrita como a parte inferior da boca do emoji) é uma parábola com concavidade para cima e vértice no eixo y negativo. A função y = x²/4 - 8, no intervalo [–4 ; 4]:\nPara x = 0, y = -8 (vértice).\nPara x = -4, y = (-4)²/4 - 8 = 16/4 - 8 = 4 - 8 = -4.\nPara x = 4, y = (4)²/4 - 8 = 16/4 - 8 = 4 - 8 = -4.\nIsso corresponde à forma e ao intervalo visualizado para a curva c4 no gráfico.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "48",
+      "textoBase": "O jornalista Euclides da Cunha foi correspondente de um jornal de São Paulo na Guerra de Canudos. Com base na sua vivência, ele escreveu o livro Os Sertões, publicado pela primeira vez em 1902. Em uma passagem do livro, ele escreveu que: “Canudos não se rendeu. Exemplo único em toda a História, resistiu até o esgotamento completo. Expugnado palmo a palmo, na precisão integral do termo, caiu no dia 5, ao entardecer, quando caíram os seus últimos defensores, que todos morreram. Eram quatro apenas: um velho, dois homens feitos e uma criança, na frente dos quais rugiam raivosamente cinco mil soldados.”.",
+      "enunciado": "Com base nos textos, é correto afirmar que essa guerra ocorreu durante o",
+      "alternativas": [
+        { "letra": "A", "texto": "Brasil Império, e constata o poderio militar do exército brasileiro, que incorporou religiosos e coronéis às suas fileiras para acabar com um movimento revolucionário que atentava contra a segurança nacional." },
+        { "letra": "B", "texto": "Brasil Império, e demonstra a capacidade técnica do exército brasileiro da época de preservar as vidas de mulheres e de crianças, combatendo apenas os jagunços contratados pelo beato Antônio Conselheiro." },
+        { "letra": "C", "texto": "Brasil Império, e atesta a importância da Geopolítica no enfrentamento de conflitos internos que ameaçam a estabilidade do regime, não importando se eram homens, mulheres ou crianças, uma vez que eram inimigos da pátria, portanto, sujeitos a morrer em combate." },
+        { "letra": "D", "texto": "Brasil República, e prova que o exército brasileiro, por ordem de Dom Pedro II, em uma demonstração de solidez tática, destruiu o povoado de Canudos em uma única tentativa, utilizando-se, para isso, de uma moderna arma de guerra para a época, o canhão." },
+        { "letra": "E", "texto": "Brasil República, e mostra que não houve rendição de Canudos, mesmo com o exército assassinando milhares de pessoas pobres que buscavam sobreviver às adversidades que eram oriundas da seca, da fome e da falta de terras, e que assolavam suas existências." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "A Guerra de Canudos (descrita por Euclides da Cunha) ocorreu no final do século XIX (1896-1897), período do Brasil República. O texto de Euclides da Cunha enfatiza a resistência até o fim e a morte dos defensores diante do exército.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "49",
+      "textoBase": "“A Matadeira” era o apelido dado, pelos sertanejos conselheiristas, ao canhão modelo Withworth 32 de fabricação inglesa e pertencente à Marinha do Brasil. Com cerca de 1,8 tonelada, era considerado impróprio para transporte em terrenos acidentados, como o local da batalha de Canudos, mas, mesmo com todas as dificuldades, foi utilizado pelo Exército Brasileiro à época. Seu tiro alcançava cerca de 3 800 m em aproximadamente 10 s, na posição de alcance máximo.",
+      "enunciado": "Nas mesmas condições de alcance máximo, suponha que a bala do canhão responsável pela queda do Forte de Antônio Conselheiro atingiu seu alvo em 0,5 s após o disparo. Desprezando quaisquer forças dissipativas, podemos afirmar corretamente que, em relação ao Forte, “a Matadeira” estava posicionada a aproximadamente.",
+      "alternativas": [
+        { "letra": "A", "texto": "190 m." },
+        { "letra": "B", "texto": "380 m." },
+        { "letra": "C", "texto": "760 m." },
+        { "letra": "D", "texto": "1,6 km." },
+        { "letra": "E", "texto": "3,8 km." }
+      ],
+      "respostaCorreta": "A",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "O canhão alcançava 3800 m em 10 s, então sua velocidade média é 3800 m / 10 s = 380 m/s. Se a bala atingiu o alvo em 0,5 s, a distância = velocidade × tempo = 380 m/s × 0,5 s = 190 m.",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "50",
+      "textoBase": "“Sabe o senhor: sertão é onde o pensamento da gente se forma mais forte do que o poder do lugar”.\nROSA, Guimarães. Grande Sertão: veredas.12a edição. São Paulo: Livraria J. Olímpio Editora, 1978. 22p.",
+      "enunciado": "Para a Geografia, o Sertão também é o nome de uma sub-região do Nordeste brasileiro onde predomina o clima",
+      "alternativas": [
+        { "letra": "A", "texto": "subtropical, com predomínio de plantas halófitas." },
+        { "letra": "B", "texto": "desértico, com predomínio de plantas caducifólias." },
+        { "letra": "C", "texto": "desértico, com predomínio de plantas latifoliadas." },
+        { "letra": "D", "texto": "semiárido, com predomínio de plantas ombrófilas." },
+        { "letra": "E", "texto": "semiárido, com predomínio de plantas xeromórficas." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Geografia",
+      "explicacao": "O Sertão nordestino é caracterizado pelo clima semiárido, onde predominam plantas adaptadas à seca, conhecidas como xeromórficas (ou xerófitas).",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "51",
+      "textoBase": "Se **I** fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que **II** enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que **III** nos deixa mais capazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de organizar a visão que temos do mundo. Por isso **IV**, um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à realidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de ordem, sugerindo um modelo de superação do caos.\nA produção literária tira as palavras do nada e as **V** dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do que geralmente se **VI** pensa. A organização da palavra comunica-se ao nosso espírito e o **VII** leva, primeiro, a **VIII** se organizar; em seguida, a organizar o mundo. Isto ocorre desde as **IX** formas mais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e a reduzem a sugestão, norma, conselho ou simples espetáculo mental.\n*(CANDIDO, A. O direito à literatura. In: Vários escritos. São Paulo: Duas Cidades, 1995. Adaptado.)*",
+      "enunciado": "Entre os elementos destacados em negrito no texto, exercem a função de retomar uma informação anteriormente enunciada.",
+      "alternativas": [
+        { "letra": "A", "texto": "I, II e IX." },
+        { "letra": "B", "texto": "I, IV e IX." },
+        { "letra": "C", "texto": "II, III e VI." },
+        { "letra": "D", "texto": "III, IV, V e VII." },
+        { "letra": "E", "texto": "III, V, VII e VIII." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Português",
+      "explicacao": "III (\"nos deixa\"): \"nos\" retoma \"nossa mente e sentimentos\" ou o leitor.\nV (\"as dispõe\"): \"as\" retoma \"as palavras\".\nVII (\"o leva\"): \"o\" retoma \"nosso espírito\".\nVIII (\"se organizar\"): \"se\" (pronome reflexivo) retoma o sujeito da ação, \"nosso espírito\".",
+      "notaInconsistencia": null
+    },
+    {
+      "numero": "52",
+      "textoBase": "Se **I** fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que **II** enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que **III** nos deixa mais capazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de organizar a visão que temos do mundo. Por isso **IV**, um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à realidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de ordem, sugerindo um modelo de superação do caos.\nA produção literária tira as palavras do nada e as **V** dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do que geralmente se **VI** pensa. A organização da palavra comunica-se ao nosso espírito e o **VII** leva, primeiro, a **VIII** se organizar; em seguida, a organizar o mundo. Isto ocorre desde as **IX** formas mais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e a reduzem a sugestão, norma, conselho ou simples espetáculo mental.\n*(CANDIDO, A. O direito à literatura. In: Vários escritos. São Paulo: Duas Cidades, 1995. Adaptado.)*",
+      "enunciado": "Analisando a estrutura do texto, pode-se afirmar corretamente que há",
+      "alternativas": [
+        { "letra": "A", "texto": "no primeiro parágrafo, quatro períodos, sendo o primeiro composto por cinco orações." },
+        { "letra": "B", "texto": "no primeiro parágrafo, três períodos, sendo o segundo composto por quatro orações." },
+        { "letra": "C", "texto": "no primeiro parágrafo, dois períodos, sendo o primeiro composto por uma oração concessiva." },
+        { "letra": "D", "texto": "no segundo parágrafo, quatro períodos, sendo o quarto composto por uma oração consecutiva." },
+        { "letra": "E", "texto": "no segundo parágrafo, cinco períodos, sendo o segundo composto por uma coordenada aditiva." }
+      ],
+      "respostaCorreta": "E",
+      "disciplina": "Português",
+      "explicacao": "",
+      "notaInconsistencia": "O gabarito oficial é E. A análise da estrutura do texto (3 períodos no primeiro parágrafo e 4 no segundo) feita na explicação original do usuário não corresponde à alternativa E (\"no segundo parágrafo, cinco períodos, sendo o segundo composto por uma coordenada aditiva\"). Há uma divergência na contagem de períodos ou um erro na alternativa/gabarito."
+    },
+    {
+      "numero": "53",
+      "textoBase": "Analise a tirinha de Calvin e Haroldo (Calvin and Hobbes) do cartunista Bill Watterson.\n*[Descrição da imagem: Tirinha de Calvin e Haroldo onde o tigre explica a Calvin sobre o uso de hipérboles e figuras de linguagem. O tigre aconselha moderação no uso de hipérboles para que não percam o impacto.]*",
+      "enunciado": "O tigre aconselha o menino a",
+      "alternativas": [
+        { "letra": "A", "texto": "exagerar nos adjetivos para que o ouvinte sinta compaixão pelo falante." },
+        { "letra": "B", "texto": "utilizar hipérboles para mascarar o significado de uma expressão." },
+        { "letra": "C", "texto": "poupar a figura de linguagem para o momento adequado." },
+        { "letra": "D", "texto": "guardar certas hipérboles para não as desgastar no discurso denotativo." },
+        { "letra": "E", "texto": "sempre recorrer às figuras de linguagem para um discurso mais linear." }
+      ],
+      "respostaCorreta": "B",
+      "disciplina": "Português",
+      "explicacao": "",
+      "notaInconsistencia": "O gabarito oficial é B (\"utilizar hipérboles para mascarar o significado de uma expressão\"). O conselho do tigre na descrição da tirinha é sobre usar com moderação para não perder o impacto (o que se alinha mais com a alternativa D da prova: \"guardar certas hipérboles para não as desgastar no discurso denotativo\"). A alternativa B do gabarito parece não refletir o conselho de moderação."
+    },
+    {
+      "numero": "54",
+      "textoBase": "Se **I** fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que **II** enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que **III** nos deixa mais capazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de organizar a visão que temos do mundo. Por isso **IV**, um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à realidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de ordem, sugerindo um modelo de superação do caos.\nA produção literária tira as palavras do nada e as **V** dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do que geralmente se **VI** pensa. A organização da palavra comunica-se ao nosso espírito e o **VII** leva, primeiro, a **VIII** se organizar; em seguida, a organizar o mundo. Isto ocorre desde as **IX** formas mais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e a reduzem a sugestão, norma, conselho ou simples espetáculo mental.\n*(CANDIDO, A. O direito à literatura. In: Vários escritos. São Paulo: Duas Cidades, 1995. Adaptado.)*",
+      "enunciado": "Com base nas informações apresentadas no texto, pode-se inferir corretamente que",
+      "alternativas": [
+        { "letra": "A", "texto": "a linguagem é fruto de uma estrutura fixa e, portanto, imutável, que impõe uma visão única da realidade." },
+        { "letra": "B", "texto": "a leitura disponibiliza ferramentas que tornam um indivíduo mais apto a entender sua realidade." },
+        { "letra": "C", "texto": "a poesia acessível, com linguagem coloquial, é incompatível com análises mais complexas da realidade." },
+        { "letra": "D", "texto": "a produção e o consumo de textos literários foram os passos iniciais para a formação da sociedade." },
+        { "letra": "E", "texto": "a linguagem permite ao indivíduo entender inicialmente o outro para, posteriormente, entender a si mesmo." }
+      ],
+      "respostaCorreta": "C",
+      "disciplina": "Multidisciplinar",
+      "explicacao": "O texto de Antonio Candido discute como a literatura, por ser uma forma de organização da linguagem, ajuda a organizar a mente e a visão de mundo do leitor.",
+      "notaInconsistencia": "O gabarito oficial é C (\"a poesia acessível, com linguagem coloquial, é incompatível com análises mais complexas da realidade\"). O texto menciona que até \"um poema hermético, de entendimento difícil\" pode funcionar como ordem, o que sugere que a complexidade não impede a função ordenadora. A alternativa B da prova (\"a leitura disponibiliza ferramentas que tornam um indivíduo mais apto a entender sua realidade\") parece mais alinhada com a ideia geral do texto."
+    }
+  ]
+}
